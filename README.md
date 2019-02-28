@@ -1,7 +1,7 @@
 # awesome-CRISPR
 List of softwares/websites/databases for genome engineering, including (but not limited to) guide design, genome editing outcome, screening analysis, etc. 
 
-This collection is inspred by [awesome-single-cell](https://github.com/seandavi/awesome-single-cell).
+This collection is inspired by [awesome-single-cell](https://github.com/seandavi/awesome-single-cell).
 
 ## Guide design
 
