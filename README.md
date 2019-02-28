@@ -6,7 +6,7 @@ This collection is inspired by [awesome-single-cell](https://github.com/seandavi
 Contents
 
 - Guide design
--- Screening library design
+  - Screening library design
 - Genome editing outcomes and predictions
 - Screening analysis
 
