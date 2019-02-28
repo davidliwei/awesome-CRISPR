@@ -3,6 +3,13 @@ List of softwares/websites/databases for genome engineering, including (but not 
 
 This collection is inspired by [awesome-single-cell](https://github.com/seandavi/awesome-single-cell).
 
+Contents
+
+- Guide design
+-- Screening library design
+- Genome editing outcomes and predictions
+- Screening analysis
+
 ## Guide design
 
 - [CRISPR-DO](http://cistrome.org/crispr/) - [webserver] - A web application for the design and optimization of guide sequences that target both coding and non-coding regions in spCas9 CRISPR system across human, mouse, zebrafish, fly and worm genomes.
