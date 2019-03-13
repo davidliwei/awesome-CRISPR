@@ -18,6 +18,7 @@ This collection is inspired by [awesome-single-cell](https://github.com/seandavi
 ### Screening library design
 
 - [CRISPR-FOCUS](http://cistrome.org/crispr-focus/) - [webserver] -  A web-based platform to search and prioritize sgRNAs for CRISPR screening experiments. 
+- [GPP Web Portal](https://portals.broadinstitute.org/gpp/public/) - [webserver] -  A web-based platform to generate matching sgRNA knockout (CRISPRko) designs for a mouse or human gene, transcript or target sequence.
 
 ## Genome editing outcomes and predictions
 
@@ -29,4 +30,4 @@ This collection is inspired by [awesome-single-cell](https://github.com/seandavi
 - [MAGeCK](https://bitbucket.org/liulab/mageck) - [python] - Model-based Analysis of Genome-wide CRISPR-Cas9 Knockout (MAGeCK) for prioritizing single-guide RNAs, genes and pathways in genome-scale CRISPR/Cas9 knockout screens. 
 - [MAGeCK-VISPR](https://bitbucket.org/liulab/mageck-vispr) - [python] - A comprehensive quality control, analysis and visualization workflow for CRISPR/Cas9 screens.
 - [MAGeCKFlute](https://bitbucket.org/liulab/mageckflute/) - [R] - A pipeline for perform computational analysis of CRISPR screens. MAGeCKFlute combines the MAGeCK and MAGeCK-VISPR algorithms and incorporates additional downstream analysis functionalities.
-
+- [STARS](https://portals.broadinstitute.org/gpp/public/software/stars) - [python] - A gene-ranking algorithm for genetic perturbation screens, computing a score for genes using the probability mass function of a binomial distribution. To analyze either shRNA or sgRNA based screening data.
