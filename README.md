@@ -19,6 +19,7 @@ This collection is inspired by [awesome-single-cell](https://github.com/seandavi
 
 - [CRISPR-FOCUS](http://cistrome.org/crispr-focus/) - [webserver] -  A web-based platform to search and prioritize sgRNAs for CRISPR screening experiments. 
 - [GPP Web Portal](https://portals.broadinstitute.org/gpp/public/) - [webserver] -  A web-based platform to generate matching sgRNA knockout (CRISPRko) designs for a mouse or human gene, transcript or target sequence.
+- [pgRNADesign](https://bitbucket.org/liulab/pgrnadesign.git) - [python] -  A algorithm to design paired gRNAs for knocking out long non-coding RNAs (lncRNAs).
 
 ## Genome editing outcomes and predictions
 
