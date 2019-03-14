@@ -6,7 +6,6 @@ This collection is inspired by [awesome-single-cell](https://github.com/seandavi
 ## Contents
 
 - Guide design
-  - Screening library design
 - Genome editing outcomes and predictions
 - Screening analysis
 
@@ -22,9 +21,6 @@ This collection is inspired by [awesome-single-cell](https://github.com/seandavi
 - [CRISPR RGEN Tools](http://www.rgenome.net) - [webserver] - A algorithm can dentify of RGEN off-target sites without limitation by the number of mismatches and allows variations in PAM sequences recognized by Cas9. Meanwhile, it can search for RGEN targets with low potential off-target effects and high knock-out efficiencies in exon.
 - [CRISPRscan](http://www.crisprscan.org) - [webserver] - A novel algorithm to predict gRNA efficiency.
 - [CRISPR MultiTargeter](http://www.multicrispr.net/index.html)- [webserver]a web-based tool for automatic searches of CRISPR guide RNA targets. It can find highly similar or identical target sites in multiple genes or transcripts or design targets unique to particular genes or transcripts.
-
-### Screening library design
-
 - [CRISPR-FOCUS](http://cistrome.org/crispr-focus/) - [webserver] -  A web-based platform to search and prioritize sgRNAs for CRISPR screening experiments. 
 - [GPP Web Portal](https://portals.broadinstitute.org/gpp/public/) - [webserver] -  A web-based platform to generate matching sgRNA knockout (CRISPRko) designs for a mouse or human gene, transcript or target sequence.
 - [pgRNADesign](https://bitbucket.org/liulab/pgrnadesign.git) - [python] -  A algorithm to design paired gRNAs for knocking out long non-coding RNAs (lncRNAs).
