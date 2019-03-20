@@ -38,6 +38,8 @@ This collection is inspired by [awesome-single-cell](https://github.com/seandavi
 - [CRISPResso](https://github.com/lucapinello/CRISPResso) - [python, webserver] - A software pipeline for the analysis of targeted CRISPR-Cas9 sequencing data. This algorithm allows for the quantification of both non-homologous end joining (NHEJ) and homologous directed repair (HDR) occurrences.
 - [CrispRVariants](https://github.com/markrobinsonuzh/CrispRVariants) - [R] - An R-based toolkit for counting, localising and plotting targeted insertion and deletion variant combinations from CRISPR-Cas9 mutagenesis experiments.
 - [CRISPR-GA](http://crispr-ga.net) - [webserver] -  A platform to assess the quality of gene editing using next gen sequencing data to quantify and characterize insertions, deletions and homologous recombination.
+- [FORECasT](https://partslab.sanger.ac.uk/FORECasT) - [python, webserver] - A method to predict and view mutational profiles for individual gRNAs.
+- [inDelphi](https://www.crisprindelphi.design) - [webserver] - A computational model that predicts the heterogeneous (100+ unique) mixture of indels resulting from microhomology-mediated end-joining (MMEJ) and non-homologous end-joining (NHEJ) at a CRISPR-induced cut. inDelphi synthesizes known biological mechanisms of DNA repair with machine learning and achieves strong accuracy.
 - [Microhomology-Predictor](http://www.rgenome.net/mich-calculator/) - [webserver] - A web tool can simply predict the mutation patterns caused by microhomology-mediated end joining (MMEJ) and estimate how frequently unwanted in-frame deletions would be happened.
 
 ## Screening analysis
