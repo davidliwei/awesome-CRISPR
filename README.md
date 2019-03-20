@@ -11,6 +11,7 @@ This collection is inspired by [awesome-single-cell](https://github.com/seandavi
 
 ## Guide design
 
+- [CasFinder](http://arep.med.harvard.edu/CasFinder/) - [python] - A algorithm for identifying specific Cas9 targets in genomes.
 - [CCtop](https://crispr.cos.uni-heidelberg.de) - [webserver] - A algorithm to predict CRISPR/Cas9 target.
 - [CHOPCHOP](http://chopchop.cbu.uib.no/index.php) - [webserver] - A web tool for selecting target sites for CRISPR/Cas9, CRISPR/Cpf1.
 - [CRISPR-DO](http://cistrome.org/crispr/) - [webserver] - A web application for the design and optimization of guide sequences that target both coding and non-coding regions in spCas9 CRISPR system across human, mouse, zebrafish, fly and worm genomes.
@@ -30,7 +31,7 @@ This collection is inspired by [awesome-single-cell](https://github.com/seandavi
 - [pgRNADesign](https://bitbucket.org/liulab/pgrnadesign.git) - [python] -  A algorithm to design paired gRNAs for knocking out long non-coding RNAs (lncRNAs).
 - [CRISPRdirect](http://crispr.dbcls.jp) - [webserver] - Algorithm based for on-Target sgRNA design.
 - [E-CRISP:](http://www.e-crisp.org/E-CRISP/) - [webserver] - A algorithm is available for twelve organisms and can be easily extended to design both sgRNA and pgRNA.
-- [CasFinder](http://arep.med.harvard.edu/CasFinder/) - [python] - A algorithm for identifying specific Cas9 targets in genomes.
+
 - [CRISPRdirect](http://crispr.dbcls.jp) - [webserver] - Algorithm based for on-Target sgRNA design.
 - [CRISPR-FOCUS](http://cistrome.org/crispr-focus/) - [webserver] -  A web-based platform to search and prioritize sgRNAs for CRISPR screening experiments. 
 - [CRISPR Library Designer](https://github.com/boutroslab/cld_docker) - [Software] - A software for the multispecies design of sgRNA libraries.
