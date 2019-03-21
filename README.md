@@ -71,8 +71,11 @@ This collection is inspired by [awesome-single-cell](https://github.com/seandavi
 - [casTLE](https://bitbucket.org/dmorgens/castle) - [python] - Based on empirical Bayesian framework to account for multiple sources of variability, including reagent efficacy and off-target effects.
 - [CaRpools](https://github.com/boutroslab/caRpools) - [R] - A pipeline for end-to-end analysis of pooled CRISPR/Cas9 screening data. Including in-depth analysis of screening quality and sgRNA phenotypes.
 - [CERES](https://depmap.org/ceres/) - [R] -  A algorithm to estimate gene-dependency levels from CRISPR-Cas9 essentiality screens while accounting for this effect.
-- [JACKS](https://github.com/felicityallen/JACKS) [python] - A Bayesian method that jointly analyses screens performed with the same guide RNA library.
-- [MAGeCK](https://bitbucket.org/liulab/mageck) - [python] - Model-based Analysis of Genome-wide CRISPR-Cas9 Knockout (MAGeCK) for prioritizing single-guide RNAs, genes and pathways in genome-scale CRISPR/Cas9 knockout screens. 
+- [HitSelect](https://github.com/diazlab/) - [MATLAB] - A comprehensive tool for high-complexity-pooled screen analysis.
+- [JACKS](https://github.com/felicityallen/JACKS) - [python] - A Bayesian method that jointly analyses screens performed with the same guide RNA library.
+- [MAGeCK](https://bitbucket.org/liulab/mageck) - [python] - Model-based Analysis of Genome-wide CRISPR-Cas9 Knockout (MAGeCK) for prioritizing single-guide RNAs, genes and HiTSelectpathways in genome-scale CRISPR/Cas9 knockout screens. 
 - [MAGeCKFlute](https://bitbucket.org/liulab/mageckflute/) - [R] - A pipeline for perform computational analysis of CRISPR screens. MAGeCKFlute combines the MAGeCK and MAGeCK-VISPR algorithms and incorporates additional downstream analysis functionalities.
 - [MAGeCK-VISPR](https://bitbucket.org/liulab/mageck-vispr) - [python] - A comprehensive quality control, analysis and visualization workflow for CRISPR/Cas9 screens.
+- [RIGER](https://software.broadinstitute.org/GENE-E/extensions.html) - [Gene-E extension] RNAi Gene Enrichment Ranking (RIGER).
+- [RSA](https://admin-ext.gnf.org/publications/RSA/) - [perl, R, C#] - Redundant siRNA Activity (RSA) is a probability-based approach for the analysis of large-scale RNAi screens.
 - [STARS](https://portals.broadinstitute.org/gpp/public/software/stars) - [python] - A gene-ranking algorithm for genetic perturbation screens, computing a score for genes using the probability mass function of a binomial distribution. To analyze either shRNA or sgRNA based screening data.
