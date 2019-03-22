@@ -12,14 +12,14 @@ This collection is inspired by [awesome-single-cell](https://github.com/seandavi
 
 ## Guide design
 
-- [ATUM](https://www.atum.bio/eCommerce/cas9/input) - [webserver] - a web  design gRNA(s) to efficiently engineer your target and minimize off-target effects using ATUM Scoring Algorithms.
-- [Benchling](https://benchling.com/crispr) - [webserver] - a website can design optimal CRISPR gRNAs by analyzing target location, specificity, and efficiency.
-- [Breaking-Cas](http://bioinfogp.cnb.csic.es/tools/breakingcas/) - [webserver] - a web server for multi-organism design of gRNAs.
-- [CasFinder](http://arep.med.harvard.edu/CasFinder/) - [python] - A algorithm for identifying specific Cas9 targets in genomes.
-- [CasOT](http://casot.cbi.pku.edu.cn/) - [webserver] - a local tool designed to find potential off-target sites in any given genome or user-provided sequence, with user-specified types of protospacer adjacent motif, and number of mismatches allowed in the seed and non-seed regions.
+- [ATUM](https://www.atum.bio/eCommerce/cas9/input) - [webserver] - A webserver to design gRNA(s) to efficiently engineer your target and minimize off-target effects using ATUM Scoring Algorithms.
+- [Benchling](https://benchling.com/crispr) - [webserver] - A website that can design optimal CRISPR gRNAs by analyzing target location, specificity, and efficiency.
+- [Breaking-Cas](http://bioinfogp.cnb.csic.es/tools/breakingcas/) - [webserver] - A webserver of designing gRNAs for multiple organisms.
+- [CasFinder](http://arep.med.harvard.edu/CasFinder/) - [python] - An algorithm for identifying specific Cas9 targets in genomes.
+- [CasOT](http://casot.cbi.pku.edu.cn/) - [webserver] - A tool to find potential off-target sites in any given genome or user-provided sequence, with user-specified types of protospacer adjacent motif, and number of mismatches allowed in the seed and non-seed regions.
 - [Cas-Designer](http://www.rgenome.net/cas-designer/) - [webserver] - A bulge-allowed quick guide-RNA designer for CRISPR/Cas derived RGENs.
-- [Cas-OFFinder](http://www.rgenome.net/cas-offinder/) - [webserver] - a algorithm searches for potential off-target sites of Cas9 RNA-guided endonucleases
-- [CCtop](https://crispr.cos.uni-heidelberg.de) - [webserver] - A algorithm to predict CRISPR/Cas9 target.
+- [Cas-OFFinder](http://www.rgenome.net/cas-offinder/) - [webserver] - An algorithm that searches for potential off-target sites of Cas9 RNA-guided endonucleases.
+- [CCtop](https://crispr.cos.uni-heidelberg.de) - [webserver] - An algorithm to predict CRISPR/Cas9 target.
 - [CHOPCHOP](http://chopchop.cbu.uib.no/index.php) - [webserver] - A web tool for selecting target sites for CRISPR/Cas9, CRISPR/Cpf1.
 - [CRISPOR](http://crispor.tefor.net/) - [webserver] - a program that helps design, evaluate and clone guide sequences for the CRISPR/Cas9 system.
 - [CRISPRa/i](https://portals.broadinstitute.org/gpp/public/analysis-tools/sgrna-design-crisprai) - [webserver] - This tool ranks and picks candidate CRISPRa/i sgRNA sequences for the gene targets provided, while attempting to maximize on-target activity and minimizing off-target activity.
