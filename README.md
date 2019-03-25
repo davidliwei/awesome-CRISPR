@@ -59,7 +59,7 @@ This collection is inspired by [awesome-single-cell](https://github.com/seandavi
 ## Genome editing outcomes and predictions
 
 - [CRISPResso](https://github.com/lucapinello/CRISPResso) - [python, webserver] - A software pipeline for the analysis of targeted CRISPR-Cas9 sequencing data. This algorithm allows for the quantification of both non-homologous ends joining (NHEJ) and homologous directed repair (HDR) occurrences.
-- [CrispRVariants](https://github.com/markrobinsonuzh/CrispRVariants) - [R] - An R-based toolkit for counting, localizing and plotting targeted insertion and deletion variant combinations from CRISPR-Cas9 mutagenesis experiments.
+- [CrispRVariants](https://github.com/markrobinsonuzh/CrispRVariants) - [R] - A R-based toolkit for counting, localizing and plotting targeted insertion and deletion variant combinations from CRISPR-Cas9 mutagenesis experiments.
 - [CRISPR-GA](http://crispr-ga.net) - [webserver] -  A platform to assess the quality of gene editing using NGS data to quantify and characterize insertions, deletions, and homologous recombination.
 - [FORECasT](https://partslab.sanger.ac.uk/FORECasT) - [python, webserver] - A method to predict and view mutational profiles for individual gRNAs.
 - [inDelphi](https://www.crisprindelphi.design) - [webserver] - A computational model that predicts the heterogeneous (100+ unique) mixture of indels resulting from microhomology-mediated end-joining (MMEJ) and non-homologous end-joining (NHEJ) at a CRISPR-induced cut. inDelphi synthesizes known biological mechanisms of DNA repair with machine learning and achieves strong accuracy.
@@ -73,7 +73,7 @@ This collection is inspired by [awesome-single-cell](https://github.com/seandavi
 - [CaRpools](https://github.com/boutroslab/caRpools) - [R] - A pipeline for end-to-end analysis of pooled CRISPR/Cas9 screening data. Including in-depth analysis of screening quality and sgRNA phenotypes.
 - [CERES](https://depmap.org/ceres/) - [R] -  An algorithm to estimate gene-dependency levels from CRISPR-Cas9 essentiality screens while accounting for this effect.
 - [HitSelect](https://github.com/diazlab/) - [MATLAB] - A comprehensive tool for high-complexity-pooled screen analysis.
-- [JACKS](https://github.com/felicityallen/JACKS) - [python] - A Bayesian method that jointly analyses screens performed with the same guide RNA library.
+- [JACKS](https://github.com/felicityallen/JACKS) - [python] - Based on Bayesian method that jointly analyses screens performed with the same guide RNA library.
 - [MAGeCK](https://bitbucket.org/liulab/mageck) - [python] - Model-based Analysis of Genome-wide CRISPR-Cas9 Knockout (MAGeCK) for prioritizing single-guide RNAs, genes and HiTSelectpathways in genome-scale CRISPR/Cas9 knockout screens. 
 - [MAGeCKFlute](https://bitbucket.org/liulab/mageckflute/) - [R] - A pipeline for performing computational analysis of CRISPR screens. MAGeCKFlute combines the MAGeCK and MAGeCK-VISPR algorithms and incorporates additional downstream analysis functionalities.
 - [MAGeCK-VISPR](https://bitbucket.org/liulab/mageck-vispr) - [python] - A comprehensive quality control, analysis, and visualization workflow for CRISPR/Cas9 screens.
