@@ -91,6 +91,7 @@ This collection is inspired by [awesome-single-cell](https://github.com/seandavi
 - [CaRpools](https://github.com/boutroslab/caRpools) - [R] - A pipeline for end-to-end analysis of pooled CRISPR/Cas9 screening data. Including in-depth analysis of screening quality and sgRNA phenotypes.
 - [CERES](https://depmap.org/ceres/) - [R] -  An algorithm to estimate gene-dependency levels from CRISPR-Cas9 essentiality screens while accounting for this effect.
 - [CRISPRCloud2](http://crispr.nrihub.org/) - [webserver] - A secure, convenient, and precise analysis pipeline for the deconvolution of your CRISPR pooled screening data.
+- [DrugZ](https://github.com/hart-lab/drugz) - [python] - DrugZ is a software that detects synergistic and suppressor drug-gene interactions in CRISPR screens. Paper: [Genome Medicine 2019](https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-019-0665-3).
 - [edgeR](http://www.bioconductor.org/packages/release/bioc/html/edgeR.html) - [R] - Known as an RNA-seq differential expression analysis tool, edgeR also provides complete analysis solution for screening data.
 - [HitSelect](https://github.com/diazlab/) - [matlab] - A comprehensive tool for high-complexity-pooled screen analysis.
 - [JACKS](https://github.com/felicityallen/JACKS) - [Python] - A Bayesian method that jointly analyses screens performed with the same guide RNA library.
