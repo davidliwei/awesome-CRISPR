@@ -95,17 +95,18 @@ This collection is inspired by [awesome-single-cell](https://github.com/seandavi
 - [edgeR](http://www.bioconductor.org/packages/release/bioc/html/edgeR.html) - [R] - Known as an RNA-seq differential expression analysis tool, edgeR also provides complete analysis solution for screening data.
 - [HitSelect](https://github.com/diazlab/) - [matlab] - A comprehensive tool for high-complexity-pooled screen analysis.
 - [JACKS](https://github.com/felicityallen/JACKS) - [Python] - A Bayesian method that jointly analyses screens performed with the same guide RNA library.
-- [MAGeCK](https://bitbucket.org/liulab/mageck) - [Python] - Model-based Analysis of Genome-wide CRISPR-Cas9 Knockout (MAGeCK) for prioritizing single-guide RNAs, genes and HiTSelectpathways in genome-scale CRISPR/Cas9 knockout screens.
+- [MAGeCK](https://bitbucket.org/liulab/mageck) - [Python] - Model-based Analysis of Genome-wide CRISPR-Cas9 Knockout (MAGeCK) for prioritizing single-guide RNAs, genes and HiTSelectpathways in genome-scale CRISPR/Cas9 knockout screens. Paper: [Genome Biology 2014](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-014-0554-4)
 - [MAGeCKFlute](https://bitbucket.org/liulab/mageckflute/) - [R] - A pipeline for performing computational analysis of CRISPR screens. MAGeCKFlute combines the MAGeCK and MAGeCK-VISPR algorithms and incorporates additional downstream analysis functionalities.
 - [MAGeCK-VISPR](https://bitbucket.org/liulab/mageck-vispr) - [Python] - A comprehensive quality control, analysis and visualization workflow for CRISPR/Cas9 screens.
 - [RIGER](https://software.broadinstitute.org/GENE-E/extensions.html) - [Gene-E extension] - RNAi Gene Enrichment Ranking (RIGER).
 - [RSA](https://admin-ext.gnf.org/publications/RSA/) - [perl, R, C#] - Redundant siRNA Activity (RSA) is a probability-based approach for the analysis of large-scale RNAi screens.
-- [scMAGeCK](https://bitbucket.org/weililab/scmageck) - [Python, R] - A computational model to identify genes associated with multiple expression phenotypes from CRISPR screening coupled with single-cell RNA sequencing data.
+- [scMAGeCK](https://bitbucket.org/weililab/scmageck) - [Python, R] - A computational model to identify genes associated with multiple expression phenotypes from CRISPR screening coupled with single-cell RNA sequencing data. Paper: [Genome Biology 2020](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-1928-4)
 - [ScreenBEAM](https://github.com/jyyu/ScreenBEAM) - [R] - Gene-level meta-analysis of high-throughput functional genomics (RNAi or CRISPR) screens.
 - [STARS](https://portals.broadinstitute.org/gpp/public/software/stars) - [Python] - A gene-ranking algorithm for genetic perturbation screens, computing a score for genes using the probability mass function of a binomial distribution. To analyze either shRNA or sgRNA based screening data.
 
 ## Databases
 - [BioGRID ORCS](https://orcs.thebiogrid.org) - [webserver] - An open repository of CRISPR screens compiled through comprehensive curation efforts. Paper: [Nucleic Acids Research 2019](https://www.ncbi.nlm.nih.gov/pubmed/30476227)
+- [CRISP-View](http://bit.ly/crisprview) - [webserver] - A comprehensive database of published CRISPR screening dataset. Datasets are uniformly processed using an integrated MAGeCK-VISPR pipeline with quality control (QC) evaluations. Users can browse, search and visualize cell lines, conditions, genes and associated sgRNAs across datasets.
 - [DepMap](https://depmap.org/portal/) - [webserver] - A comprehensive reference map of the Cancer Dependency Map project at the Broad Institute. Paper: [Cell 2017](https://www.ncbi.nlm.nih.gov/pubmed/28753430)
 - [GenomeCRISPR](http://genomecrispr.dkfz.de) - [webserver] - A database for high-throughput CRISPR/Cas9 screening experiments.
 - [PICKLES](https://hartlab.shinyapps.io/pickles/) - [webserver] - A database of pooled in-vitro CRISPR knockout library essentiality screens.
