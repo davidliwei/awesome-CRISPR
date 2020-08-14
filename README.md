@@ -23,8 +23,10 @@ This collection is inspired by [awesome-single-cell](https://github.com/seandavi
 - [Benchling](https://benchling.com/crispr) - [webserver] - A website that can design optimal CRISPR gRNAs by analyzing target location, specificity, and efficiency.
 - [Breaking-Cas](http://bioinfogp.cnb.csic.es/tools/breakingcas/) - [webserver] - A website of designing gRNAs based on multiple organisms.
 - [Cas-Designer](http://www.rgenome.net/cas-designer/) - [webserver] - A bulge-allowed quick guide-RNA designer for CRISPR/Cas derived RGENs.
+- [Cas13design](https://cas13design.nygenome.org/) - [webserver] - This resource provides optimized guide RNAs to target transcripts in the human transcriptome, model organisms and viral RNA genomes.
 - [CGAT](https://cgat.readthedocs.io/en/latest/cgat.html) - [python] - CGAT provides an extensive suite of tools designed to assist in the analysis of genome scale data from a range of standard file formats.
 - [CHOPCHOPv3](https://chopchop.cbu.uib.no/)-[webserver] - A web tool for selecting target sites for CRISPR/Cas9, CRISPR/Cpf1, CRISPR/Cas13 or NICKASE/TALEN-directed mutagenesis.
+- [CLD](https://github.com/boutroslab/cld) - [software] - CRISPR library designer (CLD), a software for multispecies design of single guide RNA libraries
 - [Crisflash](https://github.com/crisflash/crisflash)- [software] - A software to generate CRISPR guide RNAs against genomes annotated with individual variation.
 - [CRISPETa](http://crispeta.crg.eu/) -[python, webserver]  A flexible tool to design optimal pairs of sgRNAs for deletion of desired genomic regions.
 - [CRISPOR](http://crispor.tefor.net/) - [webserver] - A program helps to design, evaluate and clone guide sequences for the CRISPR/Cas9 system.
@@ -36,6 +38,7 @@ This collection is inspired by [awesome-single-cell](https://github.com/seandavi
 - [CRISPR-ERA](http://crispr-era.stanford.edu/) - [webserver] -	A Fast and Comprehensive Guide RNA Design Tool for Genome Editing, Repression and Activation.
 - [CRISPR-FOCUS](http://cistrome.org/crispr-focus/) - [webserver] -  A web-based platform to search and prioritize sgRNAs for CRISPR screening experiments.
 - [CRISPR-ko](https://portals.broadinstitute.org/gpp/public/analysis-tools/sgrna-design) - [webserver] - A tool ranks and picks sgRNA sequences candidates for the targets provided while attempting to maximize on-target activity and minimize off-target activity.
+- [CRISPR-Local](http://crispr.hzau.edu.cn/CRISPR-Local/) - [software, webserver] - A local single-guide RNA (sgRNA) design tool for non-reference plant genomes
 - [CRISPR-P](http://crispr.hzau.edu.cn/CRISPR2/) - [webserver] - One of the most popular tools for sgRNA design in plants with minimal off-target effects.
 - [CRISPR-Plant](https://www.genome.arizona.edu/crispr/) - [webserver] - This tool provides a platform to help researchers to design and construct specific gRNAs for CRISPR-Cas9 mediated genome editing in plants.
 - [CRISPR-RT](http://bioinfolab.miamioh.edu/CRISPR-RT/)- [webserver] - A web application for RNA-targeting prediction and visualization with the CRISPR-C2c2/Cas13a System.
@@ -46,21 +49,29 @@ This collection is inspired by [awesome-single-cell](https://github.com/seandavi
 - [CRISPy-web](https://crispy.secondarymetabolites.org/#/input) - [webserver] - This tool allows researchers to interactively select a region of their genome of interest to scan for possible sgRNAs.
 - [CROP-IT](http://cheetah.bioch.virginia.edu/AdliLab/CROP-IT/homepage.html) - [webserver] - A web tool assists biologists in designing CRISPR/CAS9 sgRNAs, by predicting the off-target sites and ranking them according to the chances of occurrence.
 - [CT-Finder](http://bioinfolab.miamioh.edu/ct-finder/) - [webserver] - A web service that allows a user to upload DNA sequences, set specifications according to experimental goals, and receive candidate guide RNA targets.
+- [DeepCpf1](http://deepcrispr.info/) - [python, webserver] - Deep learning-based prediction of CRISPR-Cpf1 activity at endogenous sites.
 - [DeepCRISPR](https://github.com/bm2-lab/DeepCRISPR) - [Python, webserver] - A deep learning based prediction model for sgRNA on-target knockout efficacy and genome-wide off-target cleavage profile prediction.
+- [DeepSpCas9](http://deepcrispr.info/DeepSpCas9/) - [python, webserver] - A deep learning–based computational model for SpCas9 activity prediction
 - [DRSC](http://www.flyrnai.org/crispr) - [webserver] - This tool provides reagents targeting individual genes, focused libraries, genome-scale libraries, and other resources for on-site screening.
 - [E-CRISP:](http://www.e-crisp.org/E-CRISP/) - [webserver] - An algorithm is available for twelve organisms and can be easily extended to design both sgRNA and pgRNA.
 - [EuPaGDT](http://grna.ctegd.uga.edu/)- [webserver] - A web tool tailored to design CRISPR guide RNAs for eukaryotic pathogens
+- [GPP Azimuth](https://portals.broadinstitute.org/gpp/public/analysis-tools/sgrna-design)- [webserver] - A tool that ranks and picks candidate CRISPRko sgRNA sequences for the targets provided, while attempting to maximize on-target activity and minimizing off-target activity.
 - [GPP Web Portal](https://portals.broadinstitute.org/gpp/public/) - [webserver] -  A web-based platform for generating matching sgRNA knockout (CRISPRko) designed for a mouse or human gene, transcript or target sequence.
 - [GT-Scan](https://gt-scan.csiro.au/legacy/) - [webserver] - Finding optimal targets for genome editing or regulatory interference using CRISPR/Cas or zinc-finger nuclease systems.
 - [Guide Picker](https://www.deskgen.com/guidebook//) - [webserver] -  A meta-tool for designing CRISPR experiments by presenting ten different guide RNAs scoring functions in one simple graphical interface.
 - [GUIDES](http://guides.sanjanalab.org/#/) - [webserver] - A web application to design customized CRISPR knockout libraries as easily as possible without sacrificing control.
+- [GUIDES](http://guides.sanjanalab.org/) - [webserrver] - A web application to design customized CRISPR knockout libraries as easily as possible without sacrificing control.
+- [GuideScan](http://www.guidescan.com/) - [webserver] - A generalized CRISPR guideRNA design tool.
 - [Horizon Discovery](https://dharmacon.horizondiscovery.com/gene-editing/crispr-cas9/crispr-design-tool/) - [webserver] - It provides an intuitive one-stop location for guide RNA design and ordering. Use the design tool to order guide RNAs for targeted gene knockout or HDR-mediated genome editing.
 - [IDT](https://www.idtdna.com/site/order/designtool/index/CRISPR_CUSTOM) - [webserver] - It can generate CRISPR-Cas9 guide RNAs targeting any sequence from any species.
 - [Off-Spotter](https://cm.jefferson.edu/Off-Spotter/) - [webserver] - A website identifies all genomic instances for the given combination of gRNA(s), PAM, number of mismatches, and seed.
+- [PAVOOC](https://pavooc.me/) - [webserver] - A web tool that design and control cutting-edge-scored sgRNAs in the blink of an eye.
 - [pgRNADesign](https://bitbucket.org/liulab/pgrnadesign.git) - [Python] -  An algorithm to design paired gRNAs for knocking out long non-coding RNAs (lncRNAs).
 - [pgRNAFinder](https://github.com/xiexiaowei/pgRNAFinder)-[python]- A web-based tool to design distance independent paired-gRNA
+- [PrimeDesign](http://primedesign.pinellolab.org/) - [webserver, software] -  A flexible and comprehensive design tool for prime editing.
+- [Primeedit](https://primeedit.nygenome.org/) - [webserver] - This website designs pegRNAs and secondary sgRNAs for PE2, PE3 and PE3b prime editors for ClinVar human pathogenic variants.
 - [Protospacer Workbench](http://www.protospacer.com) - [software] - Protospacer Workbench offers an interface for finding, evaluating, and sharing Cas9 guide-RNA (gRNA) designs.
-- [sgRNA Scorerv2.0](https://sgrnascorer.cancer.gov/)- [python,webserver] - A software allows users to identify sgRNA sites for any PAM sequence of interest.
+- [sgRNA Scorerv2.0](https://sgrnascorer.cancer.gov/)- [python, webserver] - A software allows users to identify sgRNA sites for any PAM sequence of interest.
 - [SSC](http://cistrome.org/SSC/) - [webserver] - A sequence model for predicting sgRNA efficiency in CRISPR/Cas9 knockout experiments.
 - [SSFinder](https://code.google.com/archive/p/ssfinder/) - [software] - A high throughput CRISPR-Cas target sites prediction tool.
 - [Synthego](https://www.synthego.com/products/bioinformatics/crispr-design-tool) - [webserver] - A software chooses from over 120,000 genomes and over 8,300 species to easily design guide RNAs for gene knockout with minimal off-target effects.
@@ -123,7 +134,6 @@ This collection is inspired by [awesome-single-cell](https://github.com/seandavi
 - [PICKLES](https://hartlab.shinyapps.io/pickles/) - [webserver] - A database of pooled in-vitro CRISPR knockout library essentiality screens.
 - [Project Drive](https://oncologynibr.shinyapps.io/drive/) - [webserver] - A Compendium of Cancer Dependencies and Synthetic Lethal Relationships Uncovered by Large-Scale, Deep RNAi Screening. Paper: [Cell 2017](https://www.ncbi.nlm.nih.gov/pubmed/28753431).
 - [Project Score (Sanger DepMap)](https://score.depmap.sanger.ac.uk/) - [webserver] - Genome-scale CRISPR–Cas9 screens in 324 human cancer cell lines from 30 cancer types. Paper: [Nature 2019](https://www.ncbi.nlm.nih.gov/pubmed/30971826).
-
 ## Reviews
 
 - 2018 - Doench - [Am I ready for CRISPR? A user's guide to genetic screens.](https://www.ncbi.nlm.nih.gov/pubmed/29199283)
