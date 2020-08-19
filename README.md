@@ -52,6 +52,7 @@ This collection is inspired by [awesome-single-cell](https://github.com/seandavi
 - [CT-Finder](http://bioinfolab.miamioh.edu/ct-finder/) - [webserver] - A web service that allows a user to upload DNA sequences, set specifications according to experimental goals, and receive candidate guide RNA targets.
 - [DeepCpf1](http://deepcrispr.info/) - [python, webserver] - Deep learning-based prediction of CRISPR-Cpf1 activity at endogenous sites.
 - [DeepCRISPR](https://github.com/bm2-lab/DeepCRISPR) - [Python, webserver] - A deep learning based prediction model for sgRNA on-target knockout efficacy and genome-wide off-target cleavage profile prediction.
+- [DeepHF](http://www.deephf.com/) - [webserver] - Optimized CRISPR guide RNA design for two high-fidelity Cas9 variants by deep learning.
 - [DeepSpCas9](http://deepcrispr.info/DeepSpCas9/) - [python, webserver] - A deep learning–based computational model for SpCas9 activity prediction
 - [DRSC](http://www.flyrnai.org/crispr) - [webserver] - This tool provides reagents targeting individual genes, focused libraries, genome-scale libraries, and other resources for on-site screening.
 - [E-CRISP:](http://www.e-crisp.org/E-CRISP/) - [webserver] - An algorithm is available for twelve organisms and can be easily extended to design both sgRNA and pgRNA.
