@@ -11,6 +11,7 @@ This collection is inspired by [awesome-single-cell](https://github.com/seandavi
 - Genome editing outcomes and predictions
 - Screening analysis algorithms
 - Databases
+- CRISPR identification and diversity
 - Reviews
 
 ## Summary (not a complete list)
