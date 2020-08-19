@@ -143,6 +143,7 @@ This collection is inspired by [awesome-single-cell](https://github.com/seandavi
 - [CRF](http://bioinfolab.miamioh.edu/crf/home.php) - [webserver, software] - Filter the invalid CRISPRs.
 - [CRISPRCasdb](https://crisprcas.i2bc.paris-saclay.fr/) - [webserver(database)] - A database containing CRISPR arrays and cas genes from complete genome sequences, and tools to download and query lists of repeats and spacers.
 - [CRISPRCasFinder](https://crisprcas.i2bc.paris-saclay.fr/) - [software, webserver] - A program enables the easy detection of CRISPRs and cas genes in user-submitted sequence data.
+- [CRISPRCasTyper](https://github.com/davidliwei/awesome-CRISPR) - [webserver] - Detect CRISPR-Cas genes and arrays, and predict the subtype based on both Cas genes and CRISPR repeat sequence. 
 - [CRISPRcompar](https://crispr.i2bc.paris-saclay.fr/CRISPRcompar/) - [webserver] - Compare the CRISPRs of two or several genomes.
 - [CRISPRDetect](http://crispr.otago.ac.nz/CRISPRDetect/) - [webserver, software] - A tool to predict and analyze CRISPR arrays.
 - [CRISPRDirection](http://bioanalysis.otago.ac.nz/CRISPRDirection/) - [software] - Predict CRISPR orientation.
