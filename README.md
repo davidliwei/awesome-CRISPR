@@ -59,7 +59,6 @@ This collection is inspired by [awesome-single-cell](https://github.com/seandavi
 - [GPP Web Portal](https://portals.broadinstitute.org/gpp/public/) - [webserver] -  A web-based platform for generating matching sgRNA knockout (CRISPRko) designed for a mouse or human gene, transcript or target sequence.
 - [GT-Scan](https://gt-scan.csiro.au/legacy/) - [webserver] - Finding optimal targets for genome editing or regulatory interference using CRISPR/Cas or zinc-finger nuclease systems.
 - [Guide Picker](https://www.deskgen.com/guidebook//) - [webserver] -  A meta-tool for designing CRISPR experiments by presenting ten different guide RNAs scoring functions in one simple graphical interface.
-- [GUIDES](http://guides.sanjanalab.org/#/) - [webserver] - A web application to design customized CRISPR knockout libraries as easily as possible without sacrificing control.
 - [GUIDES](http://guides.sanjanalab.org/) - [webserrver] - A web application to design customized CRISPR knockout libraries as easily as possible without sacrificing control.
 - [GuideScan](http://www.guidescan.com/) - [webserver] - A generalized CRISPR guideRNA design tool.
 - [Horizon Discovery](https://dharmacon.horizondiscovery.com/gene-editing/crispr-cas9/crispr-design-tool/) - [webserver] - It provides an intuitive one-stop location for guide RNA design and ordering. Use the design tool to order guide RNAs for targeted gene knockout or HDR-mediated genome editing.
@@ -134,6 +133,29 @@ This collection is inspired by [awesome-single-cell](https://github.com/seandavi
 - [PICKLES](https://hartlab.shinyapps.io/pickles/) - [webserver] - A database of pooled in-vitro CRISPR knockout library essentiality screens.
 - [Project Drive](https://oncologynibr.shinyapps.io/drive/) - [webserver] - A Compendium of Cancer Dependencies and Synthetic Lethal Relationships Uncovered by Large-Scale, Deep RNAi Screening. Paper: [Cell 2017](https://www.ncbi.nlm.nih.gov/pubmed/28753431).
 - [Project Score (Sanger DepMap)](https://score.depmap.sanger.ac.uk/) - [webserver] - Genome-scale CRISPR–Cas9 screens in 324 human cancer cell lines from 30 cancer types. Paper: [Nature 2019](https://www.ncbi.nlm.nih.gov/pubmed/30971826).
+
+## CRISPR identification and diversity
+
+- [Crass](https://ctskennerton.github.io/crass/) - [software] - A program that searches through raw metagenomic reads for CRISPR.
+- [CRF](http://bioinfolab.miamioh.edu/crf/home.php) - [webserver, software] - Filter the invalid CRISPRs.
+- [CRISPRCasdb](https://crisprcas.i2bc.paris-saclay.fr/) - [webserver(database)] - A database containing CRISPR arrays and cas genes from complete genome sequences, and tools to download and query lists of repeats and spacers.
+- [CRISPRCasFinder](https://crisprcas.i2bc.paris-saclay.fr/) - [software, webserver] - A program enables the easy detection of CRISPRs and cas genes in user-submitted sequence data.
+- [CRISPRcompar](https://crispr.i2bc.paris-saclay.fr/CRISPRcompar/) - [webserver] - Compare the CRISPRs of two or several genomes.
+- [CRISPRDetect](http://crispr.otago.ac.nz/CRISPRDetect/) - [webserver, software] - A tool to predict and analyze CRISPR arrays.
+- [CRISPRDirection](http://bioanalysis.otago.ac.nz/CRISPRDirection/) - [software] - Predict CRISPR orientation.
+- [CRISPRdisco](https://github.com/CRISPRlab/CRISPRdisco) - [software] - Identifying CRISPR repeat-spacer arrays and cas genes in genome data sets.
+- [CRISPRFinder](https://crispr.i2bc.paris-saclay.fr) - [webserver] -  A web tool to identify clustered regularly interspaced short palindromic repeats.
+- [CRISPRleader](http://www.bioinf.uni-freiburg.de/Software/CRISPRleader/) - [software] - A tool predicts CRISPR arrays in the correct orientation, and annotates the CRISPR leader boundaries.
+- [CRISPRmap](http://rna.informatik.uni-freiburg.de/CRISPRmap/Input.jsp) - [webserver] - CRISPRmap provides a quick and detailed insight into repeat conservation and diversity of both bacterial and archaeal systems.
+- [CRISPRone](https://omics.informatics.indiana.edu/CRISPRone/) - [webserver(database)] - A database provides annotation of CRISPR—Cas systems including: CRISPR arrays of repeat-spacer units and cas genes, and type of predicted system(s), and anti-repeats.
+- [CRISPRstand](http://rna.informatik.uni-freiburg.de/CRISPRmap/Input.jsp) - [webserver] - Predict repeat orientations to determine the crRNA-encoding strand at CRISPR loci.
+- [CRT](http://www.room220.com/crt/) - [software] - CRISPR Recognition Tool (CRT): a tool for automatic detection of clustered regularly interspaced palindromic repeats.
+- [MetaCRAST](https://github.com/molleraj/MetaCRAST) - [software] - A tool detects CRISPR arrays in raw, unassembled metagenomes.
+- [metaCRT](https://omics.informatics.indiana.edu/CRISPR/) - [software] - A software for de novo prediction of CRISPR.
+- [MinCED](https://github.com/ctSkennerton/minced) - [Java] - A program to find Clustered Regularly Interspaced Short Palindromic Repeats (CRISPRs) in full genomes or environmental datasets such as assembled contigs from metagenomes.
+- [Patscan](https://www.bioinformatics.org/wiki/PatScan#Home_page) - [webserver] - A pattern matcher which searches protein or nucleotide (DNA, RNA, tRNA etc.) sequence archives for instances of a pattern which you input.
+- [PILER-CR](https://www.drive5.com/pilercr/) - [software] - A public domain software for finding CRISPR repeats.
+
 ## Reviews
 
 - 2018 - Doench - [Am I ready for CRISPR? A user's guide to genetic screens.](https://www.ncbi.nlm.nih.gov/pubmed/29199283)
