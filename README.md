@@ -57,7 +57,6 @@ This collection is inspired by [awesome-single-cell](https://github.com/seandavi
 - [EuPaGDT](http://grna.ctegd.uga.edu/)- [webserver] - A web tool tailored to design CRISPR guide RNAs for eukaryotic pathogens
 - [GPP Azimuth](https://portals.broadinstitute.org/gpp/public/analysis-tools/sgrna-design)- [webserver] - A tool that ranks and picks candidate CRISPRko sgRNA sequences for the targets provided, while attempting to maximize on-target activity and minimizing off-target activity.
 - [GPP Web Portal](https://portals.broadinstitute.org/gpp/public/) - [webserver] -  A web-based platform for generating matching sgRNA knockout (CRISPRko) designed for a mouse or human gene, transcript or target sequence.
-- [GT-Scan](https://gt-scan.csiro.au/legacy/) - [webserver] - Finding optimal targets for genome editing or regulatory interference using CRISPR/Cas or zinc-finger nuclease systems.
 - [Guide Picker](https://www.deskgen.com/guidebook//) - [webserver] -  A meta-tool for designing CRISPR experiments by presenting ten different guide RNAs scoring functions in one simple graphical interface.
 - [GUIDES](http://guides.sanjanalab.org/) - [webserrver] - A web application to design customized CRISPR knockout libraries as easily as possible without sacrificing control.
 - [GuideScan](http://www.guidescan.com/) - [webserver] - A generalized CRISPR guideRNA design tool.
@@ -94,9 +93,15 @@ This collection is inspired by [awesome-single-cell](https://github.com/seandavi
 
 ## Genome editing outcomes and predictions
 
+- [AmpliconDIVider](https://github.com/mlafave/ampliconDIVider) - [Perl] - AmpliconDIVider contains the scripts used to identify deletion and insertion variants (DIVs) in DNA amplicons.
+- [BATCH-GE](https://github.com/WouterSteyaert/BATCH-GE.git) - [Perl] - A batch analysis of Next-Generation Sequencing data for genome editing assessment.
+- [Cas-analyze](http://www.rgenome.net/cas-analyzer/) - [webserver] - An online tool for assessing genome editing results using NGS data.
+- [CRIS.py](https://github.com/patrickc01/CRIS.py) - [Python] - A versatile and high-throughput analysis program for CRISPR-based genome editing.
 - [crispr-DART](https://github.com/BIMSBbioinfo/crispr_DART) - [Python, R] - A workflow to analyze CRISPR-Cas-induced indel mutations in targeted/amplicon DNA sequencing. Can work with single/multiplexed sgRNAs per region(s).
+- [CRISPR-DAV](https://github.com/pinetree1/crispr-dav.git) - [Perl, R] - A CRISPR NGS data analysis and visualization pipeline.
 - [CRISPR-GA](http://crispr-ga.net) - [webserver] -  A platform to assess the quality of gene editing using NGS data to quantify and characterize insertions, deletions, and homologous recombination.
 - [CRISPResso2](http://crispresso2.pinellolab.org/) - [Python, webserver] - A software pipeline for the analysis of targeted CRISPR-Cas9 sequencing data. This algorithm allows for the quantification of both non-homologous ends joining (NHEJ) and homologous directed repair (HDR) occurrences.
+- [CRISPRmatch](https://github.com/zhangtaolab/CRISPRMatch) - [Python] - An automatic calculation and visualization tool for high-throughput CRISPR genome-editing data analysis.
 - [CrispRVariants](https://github.com/markrobinsonuzh/CrispRVariants) - [R] - A R-based toolkit for counting, localizing and plotting targeted insertion and deletion variant combinations from CRISPR-Cas9 mutagenesis experiments.
 - [FORECasT](https://partslab.sanger.ac.uk/FORECasT) - [Python, webserver] - A method to predict and view mutational profiles for individual gRNAs.
 - [inDelphi](https://www.crisprindelphi.design) - [webserver] - A computational model that predicts the heterogeneous (100+ unique) mixture of indels resulting from microhomology-mediated end-joining (MMEJ) and non-homologous end-joining (NHEJ) at a CRISPR-induced cut. inDelphi synthesizes known biological mechanisms of DNA repair with machine learning and achieves strong accuracy.
