@@ -4,6 +4,8 @@ List of software/websites/databases/papers for genome engineering, including (bu
 
 This collection is inspired by [awesome-single-cell](https://github.com/seandavi/awesome-single-cell).
 
+Did you use any of the softwares below? Take a survey [here](https://forms.gle/qbX7mkjm7U6JSSR4A)!
+
 ## Contents
 
 - Guide design tools
@@ -11,6 +13,7 @@ This collection is inspired by [awesome-single-cell](https://github.com/seandavi
 - Genome editing outcomes and predictions
 - Screening analysis algorithms
 - Databases
+- CRISPR identification and diversity
 - Reviews
 
 ## Summary (not a complete list)
@@ -51,6 +54,7 @@ This collection is inspired by [awesome-single-cell](https://github.com/seandavi
 - [CT-Finder](http://bioinfolab.miamioh.edu/ct-finder/) - [webserver] - A web service that allows a user to upload DNA sequences, set specifications according to experimental goals, and receive candidate guide RNA targets.
 - [DeepCpf1](http://deepcrispr.info/) - [python, webserver] - Deep learning-based prediction of CRISPR-Cpf1 activity at endogenous sites.
 - [DeepCRISPR](https://github.com/bm2-lab/DeepCRISPR) - [Python, webserver] - A deep learning based prediction model for sgRNA on-target knockout efficacy and genome-wide off-target cleavage profile prediction.
+- [DeepHF](http://www.deephf.com/) - [webserver] - Optimized CRISPR guide RNA design for two high-fidelity Cas9 variants by deep learning.
 - [DeepSpCas9](http://deepcrispr.info/DeepSpCas9/) - [python, webserver] - A deep learning–based computational model for SpCas9 activity prediction
 - [DRSC](http://www.flyrnai.org/crispr) - [webserver] - This tool provides reagents targeting individual genes, focused libraries, genome-scale libraries, and other resources for on-site screening.
 - [E-CRISP:](http://www.e-crisp.org/E-CRISP/) - [webserver] - An algorithm is available for twelve organisms and can be easily extended to design both sgRNA and pgRNA.
@@ -109,6 +113,7 @@ This collection is inspired by [awesome-single-cell](https://github.com/seandavi
 - [Microhomology-Predictor](http://www.rgenome.net/mich-calculator/) - [webserver] - A web tool can simply predict the mutation patterns caused by microhomology-mediated end joining (MMEJ) and estimate how frequently unwanted in-frame deletions would happen.
 - [SPROUT](https://zou-group.github.io/SPROUT) - [webserver] - A machine learning algorithm to predict the repair outcome of a CRISPR-CAS9 knockout experiment. Trained in primary human T cells, SPROUT may facilitate design of SpCas9 guide RNAs in therapeutically important primary human cells.
 
+
 ## Screening analysis
 
 - [BAGEL](https://sourceforge.net/projects/bagel-for-knockout-screens/) - [Python] - An algorithm is designed to identify negatively selected genes, by calculating a Bayes factor for each gene representing a confidence measure that the gene knockout results in a fitness defect. Bayesian analysis of gene knockout screens using pooled library CRISPR or RNAi.
@@ -118,6 +123,7 @@ This collection is inspired by [awesome-single-cell](https://github.com/seandavi
 - [CRISPhieRmix](https://github.com/timydaley/CRISPhieRmix) - [R] - A hierarchical mixture model for CRISPR pooled screens
 - [CRISPRBetaBinomial](https://cran.r-project.org/package=CB2) - [R] - A software provides functions for hit gene identification and quantification of sgRNA abundances for CRISPR pooled screen data analysis using Beta-Binomial test.
 - [CRISPRCloud2](http://crispr.nrihub.org/) - [webserver] - A secure, convenient, and precise analysis pipeline for the deconvolution of your CRISPR pooled screening data.
+- [CRISPR-SURF](https://github.com/pinellolab/CRISPR-SURF) - [webserver] - A computational framework to discover regulatory elements by deconvolution of CRISPR tiling screen data.
 - [DrugZ](https://github.com/hart-lab/drugz) - [python] - DrugZ is a software that detects synergistic and suppressor drug-gene interactions in CRISPR screens. Paper: [Genome Medicine 2019](https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-019-0665-3).
 - [edgeR](http://www.bioconductor.org/packages/release/bioc/html/edgeR.html) - [R] - Known as an RNA-seq differential expression analysis tool, edgeR also provides complete analysis solution for screening data.
 - [ENCoRE](https://www.helmholtz-muenchen.de/index.php?id=44614) - [Java] - An efficient software for CRISPR screens identifies new players in extrinsic apoptosis.
@@ -143,6 +149,8 @@ This collection is inspired by [awesome-single-cell](https://github.com/seandavi
 - [PICKLES](https://hartlab.shinyapps.io/pickles/) - [webserver] - A database of pooled in-vitro CRISPR knockout library essentiality screens.
 - [Project Drive](https://oncologynibr.shinyapps.io/drive/) - [webserver] - A Compendium of Cancer Dependencies and Synthetic Lethal Relationships Uncovered by Large-Scale, Deep RNAi Screening. Paper: [Cell 2017](https://www.ncbi.nlm.nih.gov/pubmed/28753431).
 - [Project Score (Sanger DepMap)](https://score.depmap.sanger.ac.uk/) - [webserver] - Genome-scale CRISPR–Cas9 screens in 324 human cancer cell lines from 30 cancer types. Paper: [Nature 2019](https://www.ncbi.nlm.nih.gov/pubmed/30971826).
+- [The Genome Targeting Catalogue](https://www.ebi.ac.uk/gtc/) - [webserver] - A public repository of experiments using CRISPR/Cas enzymes, manually curated from published literature, encompassing both targeted and genome-wide studies in 47 species.  
+
 
 ## CRISPR identification and diversity
 
@@ -150,6 +158,7 @@ This collection is inspired by [awesome-single-cell](https://github.com/seandavi
 - [CRF](http://bioinfolab.miamioh.edu/crf/home.php) - [webserver, software] - Filter the invalid CRISPRs.
 - [CRISPRCasdb](https://crisprcas.i2bc.paris-saclay.fr/) - [webserver(database)] - A database containing CRISPR arrays and cas genes from complete genome sequences, and tools to download and query lists of repeats and spacers.
 - [CRISPRCasFinder](https://crisprcas.i2bc.paris-saclay.fr/) - [software, webserver] - A program enables the easy detection of CRISPRs and cas genes in user-submitted sequence data.
+- [CRISPRCasTyper](https://github.com/davidliwei/awesome-CRISPR) - [webserver] - Detect CRISPR-Cas genes and arrays, and predict the subtype based on both Cas genes and CRISPR repeat sequence. 
 - [CRISPRcompar](https://crispr.i2bc.paris-saclay.fr/CRISPRcompar/) - [webserver] - Compare the CRISPRs of two or several genomes.
 - [CRISPRDetect](http://crispr.otago.ac.nz/CRISPRDetect/) - [webserver, software] - A tool to predict and analyze CRISPR arrays.
 - [CRISPRDirection](http://bioanalysis.otago.ac.nz/CRISPRDirection/) - [software] - Predict CRISPR orientation.
