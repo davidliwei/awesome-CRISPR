@@ -61,7 +61,6 @@ Did you use any of the softwares below? Take a survey [here](https://forms.gle/q
 - [EuPaGDT](http://grna.ctegd.uga.edu/)- [webserver] - A web tool tailored to design CRISPR guide RNAs for eukaryotic pathogens
 - [GPP Azimuth](https://portals.broadinstitute.org/gpp/public/analysis-tools/sgrna-design)- [webserver] - A tool that ranks and picks candidate CRISPRko sgRNA sequences for the targets provided, while attempting to maximize on-target activity and minimizing off-target activity.
 - [GPP Web Portal](https://portals.broadinstitute.org/gpp/public/) - [webserver] -  A web-based platform for generating matching sgRNA knockout (CRISPRko) designed for a mouse or human gene, transcript or target sequence.
-- [GT-Scan](https://gt-scan.csiro.au/legacy/) - [webserver] - Finding optimal targets for genome editing or regulatory interference using CRISPR/Cas or zinc-finger nuclease systems.
 - [Guide Picker](https://www.deskgen.com/guidebook//) - [webserver] -  A meta-tool for designing CRISPR experiments by presenting ten different guide RNAs scoring functions in one simple graphical interface.
 - [GUIDES](http://guides.sanjanalab.org/) - [webserrver] - A web application to design customized CRISPR knockout libraries as easily as possible without sacrificing control.
 - [GuideScan](http://www.guidescan.com/) - [webserver] - A generalized CRISPR guideRNA design tool.
@@ -98,32 +97,43 @@ Did you use any of the softwares below? Take a survey [here](https://forms.gle/q
 
 ## Genome editing outcomes and predictions
 
+- [AmpliconDIVider](https://github.com/mlafave/ampliconDIVider) - [Perl] - AmpliconDIVider contains the scripts used to identify deletion and insertion variants (DIVs) in DNA amplicons.
+- [BATCH-GE](https://github.com/WouterSteyaert/BATCH-GE.git) - [Perl] - A batch analysis of Next-Generation Sequencing data for genome editing assessment.
+- [Cas-analyze](http://www.rgenome.net/cas-analyzer/) - [webserver] - An online tool for assessing genome editing results using NGS data.
+- [CRIS.py](https://github.com/patrickc01/CRIS.py) - [Python] - A versatile and high-throughput analysis program for CRISPR-based genome editing.
 - [crispr-DART](https://github.com/BIMSBbioinfo/crispr_DART) - [Python, R] - A workflow to analyze CRISPR-Cas-induced indel mutations in targeted/amplicon DNA sequencing. Can work with single/multiplexed sgRNAs per region(s).
+- [CRISPR-DAV](https://github.com/pinetree1/crispr-dav.git) - [Perl, R] - A CRISPR NGS data analysis and visualization pipeline.
 - [CRISPR-GA](http://crispr-ga.net) - [webserver] -  A platform to assess the quality of gene editing using NGS data to quantify and characterize insertions, deletions, and homologous recombination.
 - [CRISPResso2](http://crispresso2.pinellolab.org/) - [Python, webserver] - A software pipeline for the analysis of targeted CRISPR-Cas9 sequencing data. This algorithm allows for the quantification of both non-homologous ends joining (NHEJ) and homologous directed repair (HDR) occurrences.
+- [CRISPRmatch](https://github.com/zhangtaolab/CRISPRMatch) - [Python] - An automatic calculation and visualization tool for high-throughput CRISPR genome-editing data analysis.
 - [CrispRVariants](https://github.com/markrobinsonuzh/CrispRVariants) - [R] - A R-based toolkit for counting, localizing and plotting targeted insertion and deletion variant combinations from CRISPR-Cas9 mutagenesis experiments.
 - [FORECasT](https://partslab.sanger.ac.uk/FORECasT) - [Python, webserver] - A method to predict and view mutational profiles for individual gRNAs.
 - [inDelphi](https://www.crisprindelphi.design) - [webserver] - A computational model that predicts the heterogeneous (100+ unique) mixture of indels resulting from microhomology-mediated end-joining (MMEJ) and non-homologous end-joining (NHEJ) at a CRISPR-induced cut. inDelphi synthesizes known biological mechanisms of DNA repair with machine learning and achieves strong accuracy.
 - [Lindel](https://lindel.gs.washington.edu/Lindel/) - [webserver] -  A Logistic regression model for accurate indel prediction induced by Cas9 cleavage. [NAR 2019](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkz487/5511473)
 - [Microhomology-Predictor](http://www.rgenome.net/mich-calculator/) - [webserver] - A web tool can simply predict the mutation patterns caused by microhomology-mediated end joining (MMEJ) and estimate how frequently unwanted in-frame deletions would happen.
 - [SPROUT](https://zou-group.github.io/SPROUT) - [webserver] - A machine learning algorithm to predict the repair outcome of a CRISPR-CAS9 knockout experiment. Trained in primary human T cells, SPROUT may facilitate design of SpCas9 guide RNAs in therapeutically important primary human cells.
-- [CRISPR-SURF](https://github.com/pinellolab/CRISPR-SURF) - [webserver] - "CRISPR-Screening of Uncharacterized Region Function" a computational framework to discover regulatory elements by deconvolution of CRISPR tiling screen data
+
 
 ## Screening analysis
 
 - [BAGEL](https://sourceforge.net/projects/bagel-for-knockout-screens/) - [Python] - An algorithm is designed to identify negatively selected genes, by calculating a Bayes factor for each gene representing a confidence measure that the gene knockout results in a fitness defect. Bayesian analysis of gene knockout screens using pooled library CRISPR or RNAi.
-- [casTLE](https://bitbucket.org/dmorgens/castle) - [Python] - Based on the empirical Bayesian framework to account for multiple sources of variability, including reagent efficacy and off-target effects.
 - [CaRpools](https://github.com/boutroslab/caRpools) - [R] - A pipeline for end-to-end analysis of pooled CRISPR/Cas9 screening data. Including in-depth analysis of screening quality and sgRNA phenotypes.
+- [casTLE](https://bitbucket.org/dmorgens/castle) - [Python] - Based on the empirical Bayesian framework to account for multiple sources of variability, including reagent efficacy and off-target effects.
 - [CERES](https://depmap.org/ceres/) - [R] -  An algorithm to estimate gene-dependency levels from CRISPR-Cas9 essentiality screens while accounting for this effect.
+- [CRISPhieRmix](https://github.com/timydaley/CRISPhieRmix) - [R] - A hierarchical mixture model for CRISPR pooled screens
+- [CRISPRBetaBinomial](https://cran.r-project.org/package=CB2) - [R] - A software provides functions for hit gene identification and quantification of sgRNA abundances for CRISPR pooled screen data analysis using Beta-Binomial test.
 - [CRISPRCloud2](http://crispr.nrihub.org/) - [webserver] - A secure, convenient, and precise analysis pipeline for the deconvolution of your CRISPR pooled screening data.
+- [CRISPR-SURF](https://github.com/pinellolab/CRISPR-SURF) - [webserver] - A computational framework to discover regulatory elements by deconvolution of CRISPR tiling screen data.
 - [DrugZ](https://github.com/hart-lab/drugz) - [python] - DrugZ is a software that detects synergistic and suppressor drug-gene interactions in CRISPR screens. Paper: [Genome Medicine 2019](https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-019-0665-3).
 - [edgeR](http://www.bioconductor.org/packages/release/bioc/html/edgeR.html) - [R] - Known as an RNA-seq differential expression analysis tool, edgeR also provides complete analysis solution for screening data.
+- [ENCoRE](https://www.helmholtz-muenchen.de/index.php?id=44614) - [Java] - An efficient software for CRISPR screens identifies new players in extrinsic apoptosis.
 - [gscreend](http://bioconductor.org/packages/gscreend) - [R] - Modelling asymmetric count ratios in CRISPR screens to decrease experiment size and improve phenotype detection. Paper: [Genome Biology 2020](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-1939-1).
 - [HitSelect](https://github.com/diazlab/) - [matlab] - A comprehensive tool for high-complexity-pooled screen analysis.
 - [JACKS](https://github.com/felicityallen/JACKS) - [Python] - A Bayesian method that jointly analyses screens performed with the same guide RNA library.
+- [MAGeCK-VISPR](https://bitbucket.org/liulab/mageck-vispr) - [Python] - A comprehensive quality control, analysis and visualization workflow for CRISPR/Cas9 screens.
 - [MAGeCK](https://bitbucket.org/liulab/mageck) - [Python] - Model-based Analysis of Genome-wide CRISPR-Cas9 Knockout (MAGeCK) for prioritizing single-guide RNAs, genes and HiTSelectpathways in genome-scale CRISPR/Cas9 knockout screens. Paper: [Genome Biology 2014](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-014-0554-4)
 - [MAGeCKFlute](https://bitbucket.org/liulab/mageckflute/) - [R] - A pipeline for performing computational analysis of CRISPR screens. MAGeCKFlute combines the MAGeCK and MAGeCK-VISPR algorithms and incorporates additional downstream analysis functionalities.
-- [MAGeCK-VISPR](https://bitbucket.org/liulab/mageck-vispr) - [Python] - A comprehensive quality control, analysis and visualization workflow for CRISPR/Cas9 screens.
+- [PBNPA](https://cran.r-project.org/web/packages/PBNPA/) - [R] - A Permutation-Based Non-Parametric Analysis (PBNPA) algorithm, which computes p-values at the gene level by permuting sgRNA labels, and thus it avoids restrictive distributional assumptions. 
 - [RIGER](https://software.broadinstitute.org/GENE-E/extensions.html) - [Gene-E extension] - RNAi Gene Enrichment Ranking (RIGER).
 - [RSA](https://admin-ext.gnf.org/publications/RSA/) - [perl, R, C#] - Redundant siRNA Activity (RSA) is a probability-based approach for the analysis of large-scale RNAi screens.
 - [scMAGeCK](https://bitbucket.org/weililab/scmageck) - [Python, R] - A computational model to identify genes associated with multiple expression phenotypes from CRISPR screening coupled with single-cell RNA sequencing data. Paper: [Genome Biology 2020](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-1928-4)
