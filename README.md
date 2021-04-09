@@ -21,6 +21,10 @@ Did you use any of the softwares below? Take a survey [here](https://forms.gle/q
 ![Summary](imgs/Slide1.jpg)
 ![Summary](imgs/Slide2.jpg)
 ![Summary](imgs/Slide3.jpg)
+References:
+1:  [1](https://labs.biology.ucsd.edu/zhao/CRISPR_web/RGR_design_home_frame_set.html)
+2:  [Zhang et al. Cell Press 4(1), 2, 2015](https://www.sciencedirect.com/science/article/pii/S216225311630049X)
+
 
 ## Guide design
 
