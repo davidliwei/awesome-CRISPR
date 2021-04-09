@@ -18,7 +18,8 @@ Did you use any of the softwares below? Take a survey [here](https://forms.gle/q
 
 ## Summary (not a complete list)
 
-![Summary](imgs/summary.png)
+![Summary](imgs/Slide1.jpg)
+
 
 ## Guide design
 
