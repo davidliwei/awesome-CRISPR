@@ -24,6 +24,9 @@ Did you use any of the softwares below? Take a survey [here](https://forms.gle/q
 References:
 1:  [1](https://labs.biology.ucsd.edu/zhao/CRISPR_web/RGR_design_home_frame_set.html)
 2:  [Zhang et al. Cell Press 4(1), 2, 2015](https://www.sciencedirect.com/science/article/pii/S216225311630049X)
+3:  [Li et al. Signal Transduction and Targeted Therapy 5(1), 2, 2020](https://labs.biology.ucsd.edu/zhao/CRISPR_web/RGR_design_home_frame_set.html)
+4:  [Leenay et al. Molecular Cell 62(1), 137–147, 2016](https://www.cell.com/molecular-cell/pdf/S1097-2765(16)00175-1.pdf)
+5:  [Yan et al. Prokaryotic Immunity 363, 88-91, 2019](https://science.sciencemag.org/content/sci/363/6422/88.full.pdf)
 
 
 ## Guide design
