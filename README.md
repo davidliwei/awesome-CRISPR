@@ -65,6 +65,7 @@ to maximize on-target activity for target(s) provided.
 - [CRISPy-web](https://crispy.secondarymetabolites.org/#/input) - [webserver] - This tool allows researchers to interactively select a region of their genome of interest to scan for possible sgRNAs.
 - [CROP-IT](http://cheetah.bioch.virginia.edu/AdliLab/CROP-IT/homepage.html) - [webserver] - A web tool assists biologists in designing CRISPR/CAS9 sgRNAs, by predicting the off-target sites and ranking them according to the chances of occurrence.
 - [CT-Finder](http://bioinfolab.miamioh.edu/ct-finder/) - [webserver] - A web service that allows a user to upload DNA sequences, set specifications according to experimental goals, and receive candidate guide RNA targets.
+- [DeepCas13](http://deepcas13.weililab.org) - [webserver] - A deep learning method to predict the efficiency of Cas13d (CasRx) RNA knockdown system.
 - [DeepCpf1](http://deepcrispr.info/) - [python, webserver] - Deep learning-based prediction of CRISPR-Cpf1 activity at endogenous sites.
 - [DeepCRISPR](https://github.com/bm2-lab/DeepCRISPR) - [Python, webserver] - A deep learning based prediction model for sgRNA on-target knockout efficacy and genome-wide off-target cleavage profile prediction.
 - [DeepHF](http://www.deephf.com/) - [webserver] - Optimized CRISPR guide RNA design for two high-fidelity Cas9 variants by deep learning.
