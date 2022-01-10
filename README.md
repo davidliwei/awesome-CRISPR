@@ -92,6 +92,7 @@ to maximize on-target activity for target(s) provided.
 - [SSC](http://cistrome.org/SSC/) - [webserver] - A sequence model for predicting sgRNA efficiency in CRISPR/Cas9 knockout experiments.
 - [SSFinder](https://code.google.com/archive/p/ssfinder/) - [software] - A high throughput CRISPR-Cas target sites prediction tool.
 - [Synthego](https://www.synthego.com/products/bioinformatics/crispr-design-tool) - [webserver] - A software chooses from over 120,000 genomes and over 8,300 species to easily design guide RNAs for gene knockout with minimal off-target effects.
+- [Uncertainty-aware and interpretable evaluation of Cas9-gRNA and Cas12a-gRNA specificity for fully matched and partially mismatched targets with Deep Kernel Learning](https://colab.research.google.com/drive/1VJkhQeqW1OkMG0VJoxcpML7LtnkvTX9e?usp=sharing) - [Google Colab] - An algorithm to search and analyze on-target and off-target cleavage efficiency of gRNAs with additional information on prediction variance; 
 - [WU-CRISPR](http://crispr.wustl.edu) - [webserver] - A web tool to design gRNA for CRISPR/Cas9 Knockout system.
 
 ## Off-target prediction algorithms
