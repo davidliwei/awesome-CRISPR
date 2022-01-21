@@ -77,6 +77,7 @@ to maximize on-target activity for target(s) provided.
 - [GPP Azimuth](https://portals.broadinstitute.org/gpp/public/analysis-tools/sgrna-design)- [webserver] - A tool that ranks and picks candidate CRISPRko sgRNA sequences for the targets provided, while attempting to maximize on-target activity and minimizing off-target activity. **Replaced by CRISPick**
 - [GPP Web Portal](https://portals.broadinstitute.org/gpp/public/) - [webserver] -  A web-based platform for generating matching sgRNA knockout (CRISPRko) designed for a mouse or human gene, transcript or target sequence.
 - [Guide Picker](https://www.deskgen.com/guidebook//) - [webserver] -  A meta-tool for designing CRISPR experiments by presenting ten different guide RNAs scoring functions in one simple graphical interface.
+- [GuideHOM](https://colab.research.google.com/drive/1VJkhQeqW1OkMG0VJoxcpML7LtnkvTX9e?usp=sharing) - [Google Colab] - An algorithm to search and analyze on-target and off-target cleavage efficiency of gRNAs with additional information on prediction variance; Uncertainty-aware and interpretable evaluation of Cas9-gRNA and Cas12a-gRNA specificity for fully matched and partially mismatched targets with Deep Kernel Learning.
 - [GUIDES](http://guides.sanjanalab.org/) - [webserrver] - A web application to design customized CRISPR knockout libraries as easily as possible without sacrificing control.
 - [GuideScan](http://www.guidescan.com/) - [webserver] - A generalized CRISPR guideRNA design tool.
 - [Horizon Discovery](https://dharmacon.horizondiscovery.com/gene-editing/crispr-cas9/crispr-design-tool/) - [webserver] - It provides an intuitive one-stop location for guide RNA design and ordering. Use the design tool to order guide RNAs for targeted gene knockout or HDR-mediated genome editing.
@@ -92,7 +93,6 @@ to maximize on-target activity for target(s) provided.
 - [SSC](http://cistrome.org/SSC/) - [webserver] - A sequence model for predicting sgRNA efficiency in CRISPR/Cas9 knockout experiments.
 - [SSFinder](https://code.google.com/archive/p/ssfinder/) - [software] - A high throughput CRISPR-Cas target sites prediction tool.
 - [Synthego](https://www.synthego.com/products/bioinformatics/crispr-design-tool) - [webserver] - A software chooses from over 120,000 genomes and over 8,300 species to easily design guide RNAs for gene knockout with minimal off-target effects.
-- [Uncertainty-aware and interpretable evaluation of Cas9-gRNA and Cas12a-gRNA specificity for fully matched and partially mismatched targets with Deep Kernel Learning](https://colab.research.google.com/drive/1VJkhQeqW1OkMG0VJoxcpML7LtnkvTX9e?usp=sharing) - [Google Colab] - An algorithm to search and analyze on-target and off-target cleavage efficiency of gRNAs with additional information on prediction variance; 
 - [WU-CRISPR](http://crispr.wustl.edu) - [webserver] - A web tool to design gRNA for CRISPR/Cas9 Knockout system.
 
 ## Off-target prediction algorithms
