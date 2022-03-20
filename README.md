@@ -41,6 +41,7 @@ References:
 - [CGAT](https://cgat.readthedocs.io/en/latest/cgat.html) - [python] - CGAT provides an extensive suite of tools designed to assist in the analysis of genome scale data from a range of standard file formats.
 - [CHOPCHOPv3](https://chopchop.cbu.uib.no/)-[webserver] - A web tool for selecting target sites for CRISPR/Cas9, CRISPR/Cpf1, CRISPR/Cas13 or NICKASE/TALEN-directed mutagenesis.
 - [CLD](https://github.com/boutroslab/cld) - [software] - CRISPR library designer (CLD), a software for multispecies design of single guide RNA libraries
+- [Crackling](https://github.com/bmds-lab/Crackling) - [software] - Crackling is a standalone pipeline that combines multiple scoring approaches and constant-time search algorithms to select safe and efficient CRISPR-Cas9 guide RNA from whole genomes
 - [Crisflash](https://github.com/crisflash/crisflash)- [software] - A software to generate CRISPR guide RNAs against genomes annotated with individual variation.
 - [CRISPETa](http://crispeta.crg.eu/) - [python, webserver] - A flexible tool to design optimal pairs of sgRNAs for deletion of desired genomic regions.
 - [CRISpick](https://portals.broadinstitute.org/gppx/crispick/public) - [webserver] - CRISPick, developed by the Broad Institute, ranks and picks candidate CRISPRko/a/i sgRNA sequences
