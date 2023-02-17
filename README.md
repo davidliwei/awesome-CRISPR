@@ -34,7 +34,7 @@ References:
 ## Guide design
 
 - [ATUM](https://www.atum.bio/eCommerce/cas9/input) - [webserver] - A website to design gRNA(s) which efficiently engineer your target and minimize off-target effects using ATUM Scoring Algorithms.
-- [BE-DICT](www.be-dict.org) - [Python, webserver] - An attention-based deep learning algorithm capable of predicting base editing outcomes. It is aimed to assist scientists in designing base editor experiments.
+- [BE-DICT](http://www.be-dict.org) - [Python, webserver] - An attention-based deep learning algorithm capable of predicting base editing outcomes. It is aimed to assist scientists in designing base editor experiments.
 - [Benchling](https://benchling.com/crispr) - [webserver] - A website that can design optimal CRISPR gRNAs by analyzing target location, specificity, and efficiency.
 - [Breaking-Cas](http://bioinfogp.cnb.csic.es/tools/breakingcas/) - [webserver] - A website of designing gRNAs based on multiple organisms.
 - [Cas-Designer](http://www.rgenome.net/cas-designer/) - [webserver] - A bulge-allowed quick guide-RNA designer for CRISPR/Cas derived RGENs.
