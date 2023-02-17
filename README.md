@@ -47,6 +47,10 @@ References:
 - [CRISpick](https://portals.broadinstitute.org/gppx/crispick/public) - [webserver] - CRISPick, developed by the Broad Institute, ranks and picks candidate CRISPRko/a/i sgRNA sequences
 to maximize on-target activity for target(s) provided.
 - [CRISPOR](http://crispor.tefor.net/) - [webserver] - A program helps to design, evaluate and clone guide sequences for the CRISPR/Cas9 system.
+- [crisprBase](https://github.com/Jfortin1/crisprBase) - [R] - Base functions and classes for CRISPR gRNA design for the Bioconductor project
+- [crisprBowtie](https://github.com/Jfortin1/crisprBowtie) - [R] - A Bioconductor package for on- and off-target alignment of CRISPR guide RNAs with Bowtie.
+- [crisprBwa](https://github.com/Jfortin1/crisprBwa) - [R] - A Bioconductor package for on- and off-target alignment of CRISPR guide RNAs with BWA.
+- [crisprDesign](https://github.com/Jfortin1/crisprDesign) - [R] - A Bioconductor package for comprehensive design of CRISPR gRNAs across nucleases and base editors.
 - [CRISPR Library Designer](https://github.com/boutroslab/cld_docker) - [software] - A software for the multispecies design of sgRNA libraries.
 - [CRISPR LifePipe](https://www.lifeandsoft.com/crisprlifepipe) - [webserver] - A web application which allows designing gRNA and donor DNA sequences for CRISPR experiments.
 - [CRISPR MultiTargeter](http://www.multicrispr.net/index.html)- [webserver] - A web-based tool which automatically searches for CRISPR guide RNA targets. It can find highly similar or identical target sites in multiple genes, transcripts or design targets unique to particular genes or transcripts.
@@ -62,6 +66,7 @@ to maximize on-target activity for target(s) provided.
 - [CRISPRa/i](https://portals.broadinstitute.org/gpp/public/analysis-tools/sgrna-design-crisprai) - [webserver] - This tool ranks and picks CRISPRa/i sgRNA sequences candidates by the gene targets provided, while attempting to maximize on-target activity and minimizing off-target activity.
 - [CRISPRdirect](http://crispr.dbcls.jp) - [webserver] - An algorithm for on-Target sgRNA design.
 - [CRISPRscan](http://www.crisprscan.org) - [webserver] - A novel algorithm to predict gRNA efficiency.
+- [crisprScore](https://github.com/Jfortin1/crisprScore) - [R] - A Bioconductor package for on- and off-target scoring of guide RNAs.
 - [CRISPRseek](https://bioconductor.org/packages/release/bioc/html/CRISPRseek.html) - [R] - A Bioconductor Package for identifying target-specific guide RNAs for CRISPR-Cas9 Genome-Editing Systems.
 - [CRISPy-web](https://crispy.secondarymetabolites.org/#/input) - [webserver] - This tool allows researchers to interactively select a region of their genome of interest to scan for possible sgRNAs.
 - [CROP-IT](http://cheetah.bioch.virginia.edu/AdliLab/CROP-IT/homepage.html) - [webserver] - A web tool assists biologists in designing CRISPR/CAS9 sgRNAs, by predicting the off-target sites and ranking them according to the chances of occurrence.
