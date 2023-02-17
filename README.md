@@ -199,3 +199,4 @@ to maximize on-target activity for target(s) provided.
 
 - 2018 - Doench - [Am I ready for CRISPR? A user's guide to genetic screens.](https://www.ncbi.nlm.nih.gov/pubmed/29199283)
 - 2019 - Esposito et al. - [Hacking the Cancer Genome: Profiling Therapeutically Actionable Long Non-coding RNAs Using CRISPR-Cas9 Screening.](https://www.cell.com/cancer-cell/fulltext/S1535-6108(19)30053-4)
+- 2019 - Bradford et al. - [A benchmark of computational CRISPR-Cas9 guide design methods.](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007274)
