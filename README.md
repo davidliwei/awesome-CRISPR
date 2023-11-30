@@ -6,6 +6,8 @@ This collection is inspired by [awesome-single-cell](https://github.com/seandavi
 
 Did you use any of the softwares below? Take a survey [here](https://forms.gle/qbX7mkjm7U6JSSR4A)!
 
+**Recommended** label lists my favorites -- they only reflect my personal reference and are not rigorously evaluated. Contact me if you would like other software to be added!
+
 ## Contents
 
 - Guide design tools
@@ -46,7 +48,7 @@ References:
 - [Crisflash](https://github.com/crisflash/crisflash)- [software] - A software to generate CRISPR guide RNAs against genomes annotated with individual variation.
 - [CRISPETa](http://crispeta.crg.eu/) - [python, webserver] - A flexible tool to design optimal pairs of sgRNAs for deletion of desired genomic regions.
 - [CRISpick](https://portals.broadinstitute.org/gppx/crispick/public) - [webserver] - CRISPick, developed by the Broad Institute, ranks and picks candidate CRISPRko/a/i sgRNA sequences
-to maximize on-target activity for target(s) provided.
+to maximize on-target activity for target(s) provided. **Recommended**
 - [CRISPOR](http://crispor.tefor.net/) - [webserver] - A program helps to design, evaluate and clone guide sequences for the CRISPR/Cas9 system.
 - [crisprBase](https://github.com/Jfortin1/crisprBase) - [R] - Base functions and classes for CRISPR gRNA design for the Bioconductor project
 - [crisprBowtie](https://github.com/Jfortin1/crisprBowtie) - [R] - A Bioconductor package for on- and off-target alignment of CRISPR guide RNAs with Bowtie.
@@ -55,10 +57,10 @@ to maximize on-target activity for target(s) provided.
 - [CRISPR Library Designer](https://github.com/boutroslab/cld_docker) - [software] - A software for the multispecies design of sgRNA libraries.
 - [CRISPR LifePipe](https://www.lifeandsoft.com/crisprlifepipe) - [webserver] - A web application which allows designing gRNA and donor DNA sequences for CRISPR experiments.
 - [CRISPR MultiTargeter](http://www.multicrispr.net/index.html)- [webserver] - A web-based tool which automatically searches for CRISPR guide RNA targets. It can find highly similar or identical target sites in multiple genes, transcripts or design targets unique to particular genes or transcripts.
-- [CRISPR-DO](http://cistrome.org/crispr/) - [webserver] - A web application for designing and optimizing of guide sequences that target both coding and non-coding regions in spCas9 CRISPR system across human, mouse, zebrafish, fly and worm genomes.
+- [CRISPR-DO](http://cistrome.org/crispr/) - [webserver] - A web application for designing and optimizing of guide sequences that target both coding and non-coding regions in spCas9 CRISPR system across human, mouse, zebrafish, fly and worm genomes. **Recommended**
 - [CRISPR-DT](http://bioinfolab.miamioh.edu/CRISPR-DT/)-[webserver] - A web application that allows a user to upload DNA sequences, set specifications according to experimental goals, and recieve target candidates.
 - [CRISPR-ERA](http://crispr-era.stanford.edu/) - [webserver] -	A Fast and Comprehensive Guide RNA Design Tool for Genome Editing, Repression and Activation.
-- [CRISPR-FOCUS](http://cistrome.org/crispr-focus/) - [webserver] -  A web-based platform to search and prioritize sgRNAs for CRISPR screening experiments.
+- [CRISPR-FOCUS](http://cistrome.org/crispr-focus/) - [webserver] -  A web-based platform to search and prioritize sgRNAs for CRISPR screening experiments. **Recommended**
 - [CRISPR-ko](https://portals.broadinstitute.org/gpp/public/analysis-tools/sgrna-design) - [webserver] - A tool ranks and picks sgRNA sequences candidates for the targets provided while attempting to maximize on-target activity and minimize off-target activity.
 - [CRISPR-Local](http://crispr.hzau.edu.cn/CRISPR-Local/) - [software, webserver] - A local single-guide RNA (sgRNA) design tool for non-reference plant genomes
 - [CRISPR-P](http://crispr.hzau.edu.cn/CRISPR2/) - [webserver] - One of the most popular tools for sgRNA design in plants with minimal off-target effects.
@@ -110,7 +112,9 @@ to maximize on-target activity for target(s) provided.
 - [Cas-OFFinder](http://www.rgenome.net/cas-offinder/) - [webserver] - An algorithm that searches for potential off-target sites of Cas9 RNA-guided endonucleases.
 - [CCtop](https://crispr.cos.uni-heidelberg.de) - [webserver] - An algorithm to predict CRISPR/Cas9 target.
 - [CHOPCHOP](http://chopchop.cbu.uib.no/index.php) - [webserver] - A web tool for selecting target sites for CRISPR/Cas9, CRISPR/Cpf1.
+- [COSMID](https://crispr.bme.gatech.edu/) - [webserver] - A Web-based tool for identifying and validating CRISPR/Cas off-target sites. **Recommended**
 - [CRISPR RGEN Tools](http://www.rgenome.net) - [webserver] - An algorithm can identify of RGEN off-target sites without limitation by the number of mismatches and allow variations in PAM sequences recognized by Cas9. Meanwhile, it can search for RGEN targets with low potential off-target effects and high knock-out efficiencies in the exon region.
+- [CRISPRme](http://crisprme.di.univr.it/) - [webserver] - CRISPRme is a tool for comprehensive off-target assessment that considers effects of human genetic variants. [code](https://github.com/pinellolab/crisprme) **Recommended**
 - [CRISPRTarget](http://bioanalysis.otago.ac.nz/CRISPRTarget/crispr_analysis.html) - [webserver] - A tool to explore the targets of CRISPR RNAs.
 - [flyCRISPR](http://targetfinder.flycrispr.neuro.brown.edu) - [webserver] - Specificity for Drosophila to find CRISPR target sites and evaluate each identified CRISPR target.
 - [Geneious CRISPR Site Finder](https://www.geneious.com/academic/) - [software] - It searches for off-target binding sites against a database of sequences.
@@ -156,8 +160,8 @@ to maximize on-target activity for target(s) provided.
 - [HitSelect](https://github.com/diazlab/) - [matlab] - A comprehensive tool for high-complexity-pooled screen analysis.
 - [JACKS](https://github.com/felicityallen/JACKS) - [Python] - A Bayesian method that jointly analyses screens performed with the same guide RNA library.
 - [MAGeCK-VISPR](https://bitbucket.org/liulab/mageck-vispr) - [Python] - A comprehensive quality control, analysis and visualization workflow for CRISPR/Cas9 screens.
-- [MAGeCK](https://bitbucket.org/liulab/mageck) - [Python] - Model-based Analysis of Genome-wide CRISPR-Cas9 Knockout (MAGeCK) for prioritizing single-guide RNAs, genes and HiTSelectpathways in genome-scale CRISPR/Cas9 knockout screens. Paper: [Genome Biology 2014](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-014-0554-4)
-- [MAGeCKFlute](https://bitbucket.org/liulab/mageckflute/) - [R] - A pipeline for performing computational analysis of CRISPR screens. MAGeCKFlute combines the MAGeCK and MAGeCK-VISPR algorithms and incorporates additional downstream analysis functionalities.
+- [MAGeCK](https://bitbucket.org/liulab/mageck) - [Python] - Model-based Analysis of Genome-wide CRISPR-Cas9 Knockout (MAGeCK) for prioritizing single-guide RNAs, genes and HiTSelectpathways in genome-scale CRISPR/Cas9 knockout screens. Paper: [Genome Biology 2014](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-014-0554-4) **Recommended**
+- [MAGeCKFlute](https://bitbucket.org/liulab/mageckflute/) - [R] - A pipeline for performing computational analysis of CRISPR screens. MAGeCKFlute combines the MAGeCK and MAGeCK-VISPR algorithms and incorporates additional downstream analysis functionalities. **Recommended**
 - [MAUDE](https://github.com/Carldeboer/MAUDE) - [R] - An R package for analyzing sorting-based (e.g FACS) CRISPR screens and other high-throughput screens with a sorting readout.
 - [Normalisr](https://github.com/lingfeiwang/normalisr) - [Python, Shell] - Single-cell CRISPR screen (e.g. Perturb-seq, CROP-seq) analysis for robust, efficient gene differential expression and regulatory network reconstruction with accurate FDR control. Paper: [Nature Communications 2021](https://doi.org/10.1038/s41467-021-26682-1).
 - [PBNPA](https://cran.r-project.org/web/packages/PBNPA/) - [R] - A Permutation-Based Non-Parametric Analysis (PBNPA) algorithm, which computes p-values at the gene level by permuting sgRNA labels, and thus it avoids restrictive distributional assumptions. 
