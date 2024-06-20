@@ -37,6 +37,7 @@ References:
 
 - [ATUM](https://www.atum.bio/eCommerce/cas9/input) - [webserver] - A website to design gRNA(s) which efficiently engineer your target and minimize off-target effects using ATUM Scoring Algorithms.
 - [BE-DICT](http://www.be-dict.org) - [Python, webserver] - An attention-based deep learning algorithm capable of predicting base editing outcomes. It is aimed to assist scientists in designing base editor experiments.
+- [beditor](https://github.com/rraadd88/beditor) - [python] - A Computational Workflow for Designing Libraries of sgRNAs for CRISPR-Mediated Base Editing.
 - [Benchling](https://benchling.com/crispr) - [webserver] - A website that can design optimal CRISPR gRNAs by analyzing target location, specificity, and efficiency.
 - [Breaking-Cas](http://bioinfogp.cnb.csic.es/tools/breakingcas/) - [webserver] - A website of designing gRNAs based on multiple organisms.
 - [Cas-Designer](http://www.rgenome.net/cas-designer/) - [webserver] - A bulge-allowed quick guide-RNA designer for CRISPR/Cas derived RGENs.
@@ -54,7 +55,6 @@ to maximize on-target activity for target(s) provided. **Recommended**
 - [crisprBowtie](https://github.com/Jfortin1/crisprBowtie) - [R] - A Bioconductor package for on- and off-target alignment of CRISPR guide RNAs with Bowtie.
 - [crisprBwa](https://github.com/Jfortin1/crisprBwa) - [R] - A Bioconductor package for on- and off-target alignment of CRISPR guide RNAs with BWA.
 - [crisprDesign](https://github.com/Jfortin1/crisprDesign) - [R] - A Bioconductor package for comprehensive design of CRISPR gRNAs across nucleases and base editors.
-- [beditor](https://github.com/rraadd88/beditor) - [python] - A Computational Workflow for Designing Libraries of sgRNAs for CRISPR-Mediated Base Editing.
 - [CRISPR Library Designer](https://github.com/boutroslab/cld_docker) - [software] - A software for the multispecies design of sgRNA libraries.
 - [CRISPR LifePipe](https://www.lifeandsoft.com/crisprlifepipe) - [webserver] - A web application which allows designing gRNA and donor DNA sequences for CRISPR experiments.
 - [CRISPR MultiTargeter](http://www.multicrispr.net/index.html)- [webserver] - A web-based tool which automatically searches for CRISPR guide RNA targets. It can find highly similar or identical target sites in multiple genes, transcripts or design targets unique to particular genes or transcripts.
@@ -166,7 +166,7 @@ to maximize on-target activity for target(s) provided. **Recommended**
 - [MAUDE](https://github.com/Carldeboer/MAUDE) - [R] - An R package for analyzing sorting-based (e.g FACS) CRISPR screens and other high-throughput screens with a sorting readout.
 - [Normalisr](https://github.com/lingfeiwang/normalisr) - [Python, Shell] - Single-cell CRISPR screen (e.g. Perturb-seq, CROP-seq) analysis for robust, efficient gene differential expression and regulatory network reconstruction with accurate FDR control. Paper: [Nature Communications 2021](https://doi.org/10.1038/s41467-021-26682-1).
 - [PBNPA](https://cran.r-project.org/web/packages/PBNPA/) - [R] - A Permutation-Based Non-Parametric Analysis (PBNPA) algorithm, which computes p-values at the gene level by permuting sgRNA labels, and thus it avoids restrictive distributional assumptions. 
-- [pinAPL-Py](http://pinapl-py.ucsd.edu/) [Python / webserver] – Python script and webtool for analyzing CRISPR screen dataset
+- [pinAPL-Py](http://pinapl-py.ucsd.edu/) - [Python, webserver] – Python script and webtool for analyzing CRISPR screen dataset
 - [RIGER](https://software.broadinstitute.org/GENE-E/extensions.html) - [Gene-E extension] - RNAi Gene Enrichment Ranking (RIGER).
 - [RSA](https://admin-ext.gnf.org/publications/RSA/) - [perl, R, C#] - Redundant siRNA Activity (RSA) is a probability-based approach for the analysis of large-scale RNAi screens.
 - [scMAGeCK](https://bitbucket.org/weililab/scmageck) - [Python, R] - A computational model to identify genes associated with multiple expression phenotypes from CRISPR screening coupled with single-cell RNA sequencing data. Paper: [Genome Biology 2020](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-1928-4)
