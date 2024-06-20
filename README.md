@@ -54,6 +54,7 @@ to maximize on-target activity for target(s) provided. **Recommended**
 - [crisprBowtie](https://github.com/Jfortin1/crisprBowtie) - [R] - A Bioconductor package for on- and off-target alignment of CRISPR guide RNAs with Bowtie.
 - [crisprBwa](https://github.com/Jfortin1/crisprBwa) - [R] - A Bioconductor package for on- and off-target alignment of CRISPR guide RNAs with BWA.
 - [crisprDesign](https://github.com/Jfortin1/crisprDesign) - [R] - A Bioconductor package for comprehensive design of CRISPR gRNAs across nucleases and base editors.
+- [beditor](https://github.com/rraadd88/beditor) - [python] - A Computational Workflow for Designing Libraries of sgRNAs for CRISPR-Mediated Base Editing.
 - [CRISPR Library Designer](https://github.com/boutroslab/cld_docker) - [software] - A software for the multispecies design of sgRNA libraries.
 - [CRISPR LifePipe](https://www.lifeandsoft.com/crisprlifepipe) - [webserver] - A web application which allows designing gRNA and donor DNA sequences for CRISPR experiments.
 - [CRISPR MultiTargeter](http://www.multicrispr.net/index.html)- [webserver] - A web-based tool which automatically searches for CRISPR guide RNA targets. It can find highly similar or identical target sites in multiple genes, transcripts or design targets unique to particular genes or transcripts.
