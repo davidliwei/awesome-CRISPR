@@ -94,6 +94,7 @@ to maximize on-target activity for target(s) provided. **Recommended**
 - [Horizon Discovery](https://dharmacon.horizondiscovery.com/gene-editing/crispr-cas9/crispr-design-tool/) - [webserver] - It provides an intuitive one-stop location for guide RNA design and ordering. Use the design tool to order guide RNAs for targeted gene knockout or HDR-mediated genome editing.
 - [IDT](https://www.idtdna.com/site/order/designtool/index/CRISPR_CUSTOM) - [webserver] - It can generate CRISPR-Cas9 guide RNAs targeting any sequence from any species.
 - [Off-Spotter](https://cm.jefferson.edu/Off-Spotter/) - [webserver] - A website identifies all genomic instances for the given combination of gRNA(s), PAM, number of mismatches, and seed.
+- [OpenCloning](https://opencloning.org) - [webserver] - Open-Source web application to plan and document cloning. It includes CRISPR-based strain engineering, not supported by other cloning tools.
 - [PAVOOC](https://pavooc.me/) - [webserver] - A web tool that design and control cutting-edge-scored sgRNAs in the blink of an eye.
 - [pgRNADesign](https://bitbucket.org/liulab/pgrnadesign.git) - [Python] -  An algorithm to design paired gRNAs for knocking out long non-coding RNAs (lncRNAs).
 - [pgRNAFinder](https://github.com/xiexiaowei/pgRNAFinder)-[python]- A web-based tool to design distance independent paired-gRNA
