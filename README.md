@@ -11,6 +11,7 @@ Did you use any of the softwares below? Take a survey [here](https://forms.gle/q
 ## Contents
 
 - Guide design tools
+- Cloning and strain engineering
 - Off-target prediction algorithms
 - Genome editing outcomes and predictions
 - Screening analysis algorithms
@@ -38,7 +39,6 @@ References:
 - [ATUM](https://www.atum.bio/eCommerce/cas9/input) - [webserver] - A website to design gRNA(s) which efficiently engineer your target and minimize off-target effects using ATUM Scoring Algorithms.
 - [BE-DICT](http://www.be-dict.org) - [Python, webserver] - An attention-based deep learning algorithm capable of predicting base editing outcomes. It is aimed to assist scientists in designing base editor experiments.
 - [beditor](https://github.com/rraadd88/beditor) - [python] - A Computational Workflow for Designing Libraries of sgRNAs for CRISPR-Mediated Base Editing.
-- [Benchling](https://benchling.com/crispr) - [webserver] - A website that can design optimal CRISPR gRNAs by analyzing target location, specificity, and efficiency.
 - [Breaking-Cas](http://bioinfogp.cnb.csic.es/tools/breakingcas/) - [webserver] - A website of designing gRNAs based on multiple organisms.
 - [Cas-Designer](http://www.rgenome.net/cas-designer/) - [webserver] - A bulge-allowed quick guide-RNA designer for CRISPR/Cas derived RGENs.
 - [Cas13design](https://cas13design.nygenome.org/) - [webserver] - This resource provides optimized guide RNAs to target transcripts in the human transcriptome, model organisms and viral RNA genomes.
@@ -94,19 +94,25 @@ to maximize on-target activity for target(s) provided. **Recommended**
 - [Horizon Discovery](https://dharmacon.horizondiscovery.com/gene-editing/crispr-cas9/crispr-design-tool/) - [webserver] - It provides an intuitive one-stop location for guide RNA design and ordering. Use the design tool to order guide RNAs for targeted gene knockout or HDR-mediated genome editing.
 - [IDT](https://www.idtdna.com/site/order/designtool/index/CRISPR_CUSTOM) - [webserver] - It can generate CRISPR-Cas9 guide RNAs targeting any sequence from any species.
 - [Off-Spotter](https://cm.jefferson.edu/Off-Spotter/) - [webserver] - A website identifies all genomic instances for the given combination of gRNA(s), PAM, number of mismatches, and seed.
-- [OpenCloning](https://opencloning.org) - [webserver] - Open-Source web application to plan and document cloning. It includes CRISPR-based strain engineering, not supported by other cloning tools.
 - [PAVOOC](https://pavooc.me/) - [webserver] - A web tool that design and control cutting-edge-scored sgRNAs in the blink of an eye.
 - [pgRNADesign](https://bitbucket.org/liulab/pgrnadesign.git) - [Python] -  An algorithm to design paired gRNAs for knocking out long non-coding RNAs (lncRNAs).
 - [pgRNAFinder](https://github.com/xiexiaowei/pgRNAFinder)-[python]- A web-based tool to design distance independent paired-gRNA
 - [PrimeDesign](http://primedesign.pinellolab.org/) - [webserver, software] -  A flexible and comprehensive design tool for prime editing.
 - [Primeedit](https://primeedit.nygenome.org/) - [webserver] - This website designs pegRNAs and secondary sgRNAs for PE2, PE3 and PE3b prime editors for ClinVar human pathogenic variants.
 - [Protospacer Workbench](http://www.protospacer.com) - [software] - Protospacer Workbench offers an interface for finding, evaluating, and sharing Cas9 guide-RNA (gRNA) designs.
-- [pydna](https://github.com/pydna-group/pydna) - [python] - A Python library to simulate and document reproducible cloning strategies, including sgRNA design and CRISPR-mediated engineering. [BMC Bioinfo](https://doi.org/10.1186/s12859-015-0544-x)
 - [sgRNA Scorerv2.0](https://sgrnascorer.cancer.gov/)- [python, webserver] - A software allows users to identify sgRNA sites for any PAM sequence of interest.
 - [SSC](http://cistrome.org/SSC/) - [webserver] - A sequence model for predicting sgRNA efficiency in CRISPR/Cas9 knockout experiments.
 - [SSFinder](https://code.google.com/archive/p/ssfinder/) - [software] - A high throughput CRISPR-Cas target sites prediction tool.
 - [Synthego](https://www.synthego.com/products/bioinformatics/crispr-design-tool) - [webserver] - A software chooses from over 120,000 genomes and over 8,300 species to easily design guide RNAs for gene knockout with minimal off-target effects.
 - [WU-CRISPR](http://crispr.wustl.edu) - [webserver] - A web tool to design gRNA for CRISPR/Cas9 Knockout system.
+
+## Cloning and strain engineering
+
+All-in-one platforms for planning, simulating and documenting cloning and genome engineering workflows, including CRISPR-based strain construction.
+
+- [Benchling](https://benchling.com/crispr) - [webserver] - A platform for sequence design and lab documentation that can also design CRISPR gRNAs by analyzing target location, specificity, and efficiency.
+- [OpenCloning](https://opencloning.org) - [webserver] - An open-source web application to plan and document cloning and genome engineering, including CRISPR-based strain engineering. [code](https://github.com/manulera/OpenCloning)
+- [pydna](https://github.com/pydna-group/pydna) - [python] - A Python library to simulate and document reproducible cloning strategies, including CRISPR-Cas9 cut simulation and CRISPR-mediated engineering. [BMC Bioinfo](https://doi.org/10.1186/s12859-015-0544-x)
 
 ## Off-target prediction algorithms
 
