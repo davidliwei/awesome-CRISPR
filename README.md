@@ -162,6 +162,7 @@ All-in-one platforms for planning, simulating and documenting cloning and genome
 - [CRISPRBetaBinomial](https://cran.r-project.org/package=CB2) - [R] - A software provides functions for hit gene identification and quantification of sgRNA abundances for CRISPR pooled screen data analysis using Beta-Binomial test.
 - [CRISPRCloud2](http://crispr.nrihub.org/) - [webserver] - A secure, convenient, and precise analysis pipeline for the deconvolution of your CRISPR pooled screening data.
 - [CRISPR-SURF](https://github.com/pinellolab/CRISPR-SURF) - [webserver] - A computational framework to discover regulatory elements by deconvolution of CRISPR tiling screen data.
+- [DotMatch](https://github.com/dnncha/dotmatch) - [Python] - Deterministic assignment of CRISPR guide reads to a known library, with MAGeCK-compatible counts and explicit ambiguous-read QC.
 - [DrugZ](https://github.com/hart-lab/drugz) - [python] - DrugZ is a software that detects synergistic and suppressor drug-gene interactions in CRISPR screens. Paper: [Genome Medicine 2019](https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-019-0665-3).
 - [edgeR](http://www.bioconductor.org/packages/release/bioc/html/edgeR.html) - [R] - Known as an RNA-seq differential expression analysis tool, edgeR also provides complete analysis solution for screening data.
 - [ENCoRE](https://www.helmholtz-muenchen.de/index.php?id=44614) - [Java] - An efficient software for CRISPR screens identifies new players in extrinsic apoptosis.
