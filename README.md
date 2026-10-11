@@ -51,10 +51,10 @@ References:
 - [CRISpick](https://portals.broadinstitute.org/gppx/crispick/public) - [webserver] - CRISPick, developed by the Broad Institute, ranks and picks candidate CRISPRko/a/i sgRNA sequences
 to maximize on-target activity for target(s) provided. **Recommended**
 - [CRISPOR](http://crispor.tefor.net/) - [webserver] - A program helps to design, evaluate and clone guide sequences for the CRISPR/Cas9 system.
-- [crisprBase](https://github.com/Jfortin1/crisprBase) - [R] - Base functions and classes for CRISPR gRNA design for the Bioconductor project
-- [crisprBowtie](https://github.com/Jfortin1/crisprBowtie) - [R] - A Bioconductor package for on- and off-target alignment of CRISPR guide RNAs with Bowtie.
-- [crisprBwa](https://github.com/Jfortin1/crisprBwa) - [R] - A Bioconductor package for on- and off-target alignment of CRISPR guide RNAs with BWA.
-- [crisprDesign](https://github.com/Jfortin1/crisprDesign) - [R] - A Bioconductor package for comprehensive design of CRISPR gRNAs across nucleases and base editors.
+- [crisprBase](https://github.com/crisprVerse/crisprBase) - [R] - Base functions and classes for CRISPR gRNA design for the Bioconductor project
+- [crisprBowtie](https://github.com/crisprVerse/crisprBowtie) - [R] - A Bioconductor package for on- and off-target alignment of CRISPR guide RNAs with Bowtie.
+- [crisprBwa](https://github.com/crisprVerse/crisprBwa) - [R] - A Bioconductor package for on- and off-target alignment of CRISPR guide RNAs with BWA.
+- [crisprDesign](https://github.com/crisprVerse/crisprDesign) - [R] - A Bioconductor package for comprehensive design of CRISPR gRNAs across nucleases and base editors.
 - [CRISPR Library Designer](https://github.com/boutroslab/cld_docker) - [software] - A software for the multispecies design of sgRNA libraries.
 - [CRISPR LifePipe](https://www.lifeandsoft.com/crisprlifepipe) - [webserver] - A web application which allows designing gRNA and donor DNA sequences for CRISPR experiments.
 - [CRISPR MultiTargeter](http://www.multicrispr.net/index.html)- [webserver] - A web-based tool which automatically searches for CRISPR guide RNA targets. It can find highly similar or identical target sites in multiple genes, transcripts or design targets unique to particular genes or transcripts.
@@ -70,7 +70,7 @@ to maximize on-target activity for target(s) provided. **Recommended**
 - [CRISPRa/i](https://portals.broadinstitute.org/gpp/public/analysis-tools/sgrna-design-crisprai) - [webserver] - This tool ranks and picks CRISPRa/i sgRNA sequences candidates by the gene targets provided, while attempting to maximize on-target activity and minimizing off-target activity.
 - [CRISPRdirect](http://crispr.dbcls.jp) - [webserver] - An algorithm for on-Target sgRNA design.
 - [CRISPRscan](http://www.crisprscan.org) - [webserver] - A novel algorithm to predict gRNA efficiency.
-- [crisprScore](https://github.com/Jfortin1/crisprScore) - [R] - A Bioconductor package for on- and off-target scoring of guide RNAs.
+- [crisprScore](https://github.com/crisprVerse/crisprScore) - [R] - A Bioconductor package for on- and off-target scoring of guide RNAs.
 - [CRISPRseek](https://bioconductor.org/packages/release/bioc/html/CRISPRseek.html) - [R] - A Bioconductor Package for identifying target-specific guide RNAs for CRISPR-Cas9 Genome-Editing Systems.
 - [crisprVerse](https://github.com/crisprVerse) [R] - A comprehensive Bioconductor ecosystem for the design of CRISPR guide RNAs across nucleases and technologies.
 - [CRISPy-web](https://crispy.secondarymetabolites.org/#/input) - [webserver] - This tool allows researchers to interactively select a region of their genome of interest to scan for possible sgRNAs.
@@ -221,6 +221,7 @@ All-in-one platforms for planning, simulating and documenting cloning and genome
 
 ## Reviews
 
+- 2026 – [CRISPR Cures Are Going Mainstream. The Price Tag Is the Problem.](https://calder-brief.pages.dev/crispr-cures-mainstream)
 - 2022 – [High-content CRISPR screening.](https://www.nature.com/articles/s43586-021-00093-4)
 - 2021 – [A new era in functional genomics screens.](https://www.nature.com/articles/s41576-021-00409-w)
 - 2019 - Esposito et al. - [Hacking the Cancer Genome: Profiling Therapeutically Actionable Long Non-coding RNAs Using CRISPR-Cas9 Screening.](https://www.cell.com/cancer-cell/fulltext/S1535-6108(19)30053-4)
