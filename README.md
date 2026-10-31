@@ -98,6 +98,7 @@ to maximize on-target activity for target(s) provided. **Recommended**
 - [pgRNADesign](https://bitbucket.org/liulab/pgrnadesign.git) - [Python] -  An algorithm to design paired gRNAs for knocking out long non-coding RNAs (lncRNAs).
 - [pgRNAFinder](https://github.com/xiexiaowei/pgRNAFinder)-[python]- A web-based tool to design distance independent paired-gRNA
 - [PrimeDesign](http://primedesign.pinellolab.org/) - [webserver, software] -  A flexible and comprehensive design tool for prime editing.
+- [PrimedSherlock](https://bug.lat/primedsherlock.html) - [python] - A command-line tool that designs highly specific CRISPR-Cas12 and Cas13 crRNAs from RPA primer sets, with Cas-OFFinder off-target screening. [Paper](https://doi.org/10.1186/s12859-022-04968-5).
 - [Primeedit](https://primeedit.nygenome.org/) - [webserver] - This website designs pegRNAs and secondary sgRNAs for PE2, PE3 and PE3b prime editors for ClinVar human pathogenic variants.
 - [Protospacer Workbench](http://www.protospacer.com) - [software] - Protospacer Workbench offers an interface for finding, evaluating, and sharing Cas9 guide-RNA (gRNA) designs.
 - [sgRNA Scorerv2.0](https://sgrnascorer.cancer.gov/)- [python, webserver] - A software allows users to identify sgRNA sites for any PAM sequence of interest.
